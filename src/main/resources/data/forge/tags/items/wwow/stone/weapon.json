@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "wwow:stone_broadsword",
+    "minecraft:stone_sword",
+    "minecraft:stone_axe"
+  ]
+}

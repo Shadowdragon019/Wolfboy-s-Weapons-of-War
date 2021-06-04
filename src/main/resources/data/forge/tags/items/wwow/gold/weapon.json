@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "wwow:gold_broadsword",
+    "minecraft:golden_sword",
+    "minecraft:golden_axe"
+  ]
+}

@@ -406,6 +406,269 @@
       "ids": {},
       "registry_name": "netherite_broadsword_r",
       "path": "~/Recipes/WWoW/Weapons/Broadswords"
+    },
+    {
+      "name": "WoodenTool",
+      "type": "tag",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wooden_tool",
+      "path": "~/Tag/Item Tags/Material Tags"
+    },
+    {
+      "name": "WoodenWeapon",
+      "type": "tag",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wooden_weapon",
+      "path": "~/Tag/Item Tags/Material Tags"
+    },
+    {
+      "name": "WoodenArmor",
+      "type": "tag",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wooden_armor",
+      "path": "~/Tag/Item Tags/Material Tags"
+    },
+    {
+      "name": "StoneTool",
+      "type": "tag",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_tool",
+      "path": "~/Tag/Item Tags/Material Tags"
+    },
+    {
+      "name": "StoneWeapon",
+      "type": "tag",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_weapon",
+      "path": "~/Tag/Item Tags/Material Tags"
+    },
+    {
+      "name": "StoneArmor",
+      "type": "tag",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_armor",
+      "path": "~/Tag/Item Tags/Material Tags"
+    },
+    {
+      "name": "LeatherArmor",
+      "type": "tag",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_armor",
+      "path": "~/Tag/Item Tags/Material Tags"
+    },
+    {
+      "name": "LeatherHorseArmor",
+      "type": "tag",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_horse_armor",
+      "path": "~/Tag/Item Tags/Material Tags"
+    },
+    {
+      "name": "ChainmailArmor",
+      "type": "tag",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chainmail_armor",
+      "path": "~/Tag/Item Tags/Material Tags"
+    },
+    {
+      "name": "GoldTool",
+      "type": "tag",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_tool",
+      "path": "~/Tag/Item Tags/Material Tags"
+    },
+    {
+      "name": "GoldWeapon",
+      "type": "tag",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_weapon",
+      "path": "~/Tag/Item Tags/Material Tags"
+    },
+    {
+      "name": "GoldArmor",
+      "type": "tag",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_armor",
+      "path": "~/Tag/Item Tags/Material Tags"
+    },
+    {
+      "name": "GoldHorseArmor",
+      "type": "tag",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_horse_armor",
+      "path": "~/Tag/Item Tags/Material Tags"
+    },
+    {
+      "name": "IronTool",
+      "type": "tag",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_tool",
+      "path": "~/Tag/Item Tags/Material Tags"
+    },
+    {
+      "name": "IronWeapon",
+      "type": "tag",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_weapon",
+      "path": "~/Tag/Item Tags/Material Tags"
+    },
+    {
+      "name": "IronArmor",
+      "type": "tag",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_armor",
+      "path": "~/Tag/Item Tags/Material Tags"
+    },
+    {
+      "name": "IronHorseArmor",
+      "type": "tag",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_horse_armor",
+      "path": "~/Tag/Item Tags/Material Tags"
+    },
+    {
+      "name": "DiamondTool",
+      "type": "tag",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_tool",
+      "path": "~/Tag/Item Tags/Material Tags"
+    },
+    {
+      "name": "DiamondWeapon",
+      "type": "tag",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_weapon",
+      "path": "~/Tag/Item Tags/Material Tags"
+    },
+    {
+      "name": "DiamondArmor",
+      "type": "tag",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_armor",
+      "path": "~/Tag/Item Tags/Material Tags"
+    },
+    {
+      "name": "DiamondHorseArmor",
+      "type": "tag",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_horse_armor",
+      "path": "~/Tag/Item Tags/Material Tags"
+    },
+    {
+      "name": "NetheritTool",
+      "type": "tag",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherit_tool",
+      "path": "~/Tag/Item Tags/Material Tags"
+    },
+    {
+      "name": "NetheriteWeapon",
+      "type": "tag",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_weapon",
+      "path": "~/Tag/Item Tags/Material Tags"
+    },
+    {
+      "name": "NetheriteArmor",
+      "type": "tag",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_armor",
+      "path": "~/Tag/Item Tags/Material Tags"
+    },
+    {
+      "name": "NetheriteHorseArmor",
+      "type": "tag",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_horse_armor",
+      "path": "~/Tag/Item Tags/Material Tags"
+    },
+    {
+      "name": "WoodenItemRepairTime",
+      "type": "gamerule",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woodenItemRepairTime",
+      "metadata": {
+        "type": "number"
+      },
+      "path": "~/Gamerules"
     }
   ],
   "variable_elements": [],
@@ -421,6 +684,7 @@
       "item.wwow.iron_broadsword": "Iron Broadsword",
       "item.wwow.gold_broadsword": "Gold Broadsword",
       "block.wwow.ruby_block": "Block of Ruby",
+      "gamerule.woodenItemRepairTime.description": "The amount of time (in ticks) a Wooden item repairs 1 durability",
       "item.wwow.smooth_stick": "Smooth Stick",
       "item.wwow.stacked_netherite_ingot": "Stacked Netherite Ingot",
       "item.wwow.leather_handle": "Leather Handle",
@@ -429,7 +693,8 @@
       "item.wwow.stone_broadsword": "Stone Broadsword",
       "item.wwow.ruby": "Ruby",
       "item.wwow.diamond_broadsword": "Diamond Broadsword",
-      "item.wwow.stacked_gold_ingot": "Stacked Gold Ingot"
+      "item.wwow.stacked_gold_ingot": "Stacked Gold Ingot",
+      "gamerule.woodenItemRepairTime": "Wooden Itrem Repair Time"
     }
   },
   "foldersRoot": {
@@ -489,7 +754,12 @@
         "children": [
           {
             "name": "Item Tags",
-            "children": []
+            "children": [
+              {
+                "name": "Material Tags",
+                "children": []
+              }
+            ]
           },
           {
             "name": "Block Tags",
@@ -511,6 +781,10 @@
       },
       {
         "name": "LootTables",
+        "children": []
+      },
+      {
+        "name": "Gamerules",
         "children": []
       }
     ]

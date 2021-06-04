@@ -1,0 +1,12 @@
+{
+  "_fv": 18,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Number",
+    "displayName": "Wooden Itrem Repair Time",
+    "description": "The amount of time (in ticks) a Wooden item repairs 1 durability",
+    "category": "PLAYER",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 400
+  }
+}

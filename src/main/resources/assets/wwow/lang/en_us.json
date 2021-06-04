@@ -8,6 +8,7 @@
   "item.wwow.iron_broadsword": "Iron Broadsword",
   "item.wwow.gold_broadsword": "Gold Broadsword",
   "block.wwow.ruby_block": "Block of Ruby",
+  "gamerule.woodenItemRepairTime.description": "The amount of time (in ticks) a Wooden item repairs 1 durability",
   "item.wwow.smooth_stick": "Smooth Stick",
   "item.wwow.stacked_netherite_ingot": "Stacked Netherite Ingot",
   "item.wwow.leather_handle": "Leather Handle",
@@ -16,5 +17,6 @@
   "item.wwow.stone_broadsword": "Stone Broadsword",
   "item.wwow.ruby": "Ruby",
   "item.wwow.diamond_broadsword": "Diamond Broadsword",
-  "item.wwow.stacked_gold_ingot": "Stacked Gold Ingot"
+  "item.wwow.stacked_gold_ingot": "Stacked Gold Ingot",
+  "gamerule.woodenItemRepairTime": "Wooden Itrem Repair Time"
 }
