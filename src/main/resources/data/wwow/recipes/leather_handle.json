@@ -1,0 +1,19 @@
+{
+  "group": "leather_handle",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "wwow:leather_rope"
+    },
+    {
+      "item": "wwow:smooth_stick"
+    },
+    {
+      "item": "wwow:leather_rope"
+    }
+  ],
+  "result": {
+    "item": "wwow:leather_handle",
+    "count": 1
+  }
+}

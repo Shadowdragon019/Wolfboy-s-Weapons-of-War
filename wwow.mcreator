@@ -1,0 +1,539 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "SmoothStick",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smooth_stick",
+      "path": "~/Item"
+    },
+    {
+      "name": "SmoothStickR",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smooth_stick_r",
+      "path": "~/Recipes/WWoW/Crafting"
+    },
+    {
+      "name": "SugarCaneHandle",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugar_cane_handle",
+      "path": "~/Item"
+    },
+    {
+      "name": "LeatherHandle",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_handle",
+      "path": "~/Item"
+    },
+    {
+      "name": "SuagrCaneHandleR",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "suagr_cane_handle_r",
+      "path": "~/Recipes/WWoW/Crafting"
+    },
+    {
+      "name": "LeatherRope",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_rope",
+      "path": "~/Item"
+    },
+    {
+      "name": "LeatherRopeR",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_rope_r",
+      "path": "~/Recipes/WWoW/Crafting"
+    },
+    {
+      "name": "LeatherHandleR",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_handle_r",
+      "path": "~/Recipes/WWoW/Crafting"
+    },
+    {
+      "name": "IronBroadsword",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_broadsword",
+      "path": "~/Item/Weapons/Broadsword"
+    },
+    {
+      "name": "BeforeEntityIsHurt",
+      "type": "procedure",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "before_entity_is_hurt",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          },
+          {
+            "name": "amount",
+            "type": "number"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "Broadsword",
+      "type": "tag",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "broadsword",
+      "path": "~/Tag/Item Tags"
+    },
+    {
+      "name": "Splashing",
+      "type": "enchantment",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "splashing",
+      "path": "~/Enchants"
+    },
+    {
+      "name": "Ender",
+      "type": "tag",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender",
+      "path": "~/Tag/Entity Tags"
+    },
+    {
+      "name": "Heat",
+      "type": "tag",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heat",
+      "path": "~/Tag/Entity Tags"
+    },
+    {
+      "name": "WoodenBroadsword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wooden_broadsword",
+      "path": "~/Item/Weapons/Broadsword"
+    },
+    {
+      "name": "StoneBroadsword",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_broadsword",
+      "path": "~/Item/Weapons/Broadsword"
+    },
+    {
+      "name": "GoldBroadsword",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_broadsword",
+      "path": "~/Item/Weapons/Broadsword"
+    },
+    {
+      "name": "DiamondBroadsword",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_broadsword",
+      "path": "~/Item/Weapons/Broadsword"
+    },
+    {
+      "name": "NetheriteBroadsword",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_broadsword",
+      "path": "~/Item/Weapons/Broadsword"
+    },
+    {
+      "name": "WoodenBroadswordR",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wooden_broadsword_r",
+      "path": "~/Recipes/WWoW/Weapons/Broadswords"
+    },
+    {
+      "name": "StoneBroadswordR",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_broadsword_r",
+      "path": "~/Recipes/WWoW/Weapons/Broadswords"
+    },
+    {
+      "name": "StackedIronIngot",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stacked_iron_ingot",
+      "path": "~/Item"
+    },
+    {
+      "name": "StackedIronIngotR",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stacked_iron_ingot_r",
+      "path": "~/Recipes/WWoW/Smithing"
+    },
+    {
+      "name": "IronBroadswordR",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_broadsword_r",
+      "path": "~/Recipes/WWoW/Weapons/Broadswords"
+    },
+    {
+      "name": "RubyOre",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "Ruby",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby",
+      "path": "~/Item"
+    },
+    {
+      "name": "RubyOreLT",
+      "type": "loottable",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore_lt",
+      "path": "~/LootTables"
+    },
+    {
+      "name": "RubyBlock",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_block",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "RubyBlockR",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_block_r",
+      "path": "~/Recipes/WWoW/Crafting"
+    },
+    {
+      "name": "RubyR",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_r",
+      "path": "~/Recipes/WWoW/Crafting"
+    },
+    {
+      "name": "StackedGoldIngot",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stacked_gold_ingot",
+      "path": "~/Item"
+    },
+    {
+      "name": "StackedNetheriteIngot",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stacked_netherite_ingot",
+      "path": "~/Item"
+    },
+    {
+      "name": "StackedGoldIngotR",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stacked_gold_ingot_r",
+      "path": "~/Recipes/WWoW/Smithing"
+    },
+    {
+      "name": "StackedNetheriteIngotR",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stacked_netherite_ingot_r",
+      "path": "~/Recipes/WWoW/Smithing"
+    },
+    {
+      "name": "GoldBroadswordR",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_broadsword_r",
+      "path": "~/Recipes/WWoW/Weapons/Broadswords"
+    },
+    {
+      "name": "StackedDiamond",
+      "type": "item",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stacked_diamond",
+      "path": "~/Item"
+    },
+    {
+      "name": "StackedDiamondR",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stacked_diamond_r",
+      "path": "~/Recipes/WWoW/Crafting"
+    },
+    {
+      "name": "DiamondBroadswordR",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_broadsword_r",
+      "path": "~/Recipes/WWoW/Weapons/Broadswords"
+    },
+    {
+      "name": "NetheriteBroadswordR",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_broadsword_r",
+      "path": "~/Recipes/WWoW/Weapons/Broadswords"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "enchantment.wwow.splashing": "Splashing",
+      "item.wwow.wooden_broadsword": "Wooden Broadsword",
+      "item.wwow.sugar_cane_handle": "Sugar Cane Handle",
+      "item.wwow.leather_rope": "Leather Rope",
+      "item.wwow.stacked_iron_ingot": "Stacked Iron Ingot",
+      "block.wwow.ruby_ore": "Ruby Ore",
+      "item.wwow.iron_broadsword": "Iron Broadsword",
+      "item.wwow.gold_broadsword": "Gold Broadsword",
+      "block.wwow.ruby_block": "Block of Ruby",
+      "item.wwow.smooth_stick": "Smooth Stick",
+      "item.wwow.stacked_netherite_ingot": "Stacked Netherite Ingot",
+      "item.wwow.leather_handle": "Leather Handle",
+      "item.wwow.netherite_broadsword": "Netherite Broadsword",
+      "item.wwow.stacked_diamond": "Stacked Diamond",
+      "item.wwow.stone_broadsword": "Stone Broadsword",
+      "item.wwow.ruby": "Ruby",
+      "item.wwow.diamond_broadsword": "Diamond Broadsword",
+      "item.wwow.stacked_gold_ingot": "Stacked Gold Ingot"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Item",
+        "children": [
+          {
+            "name": "Weapons",
+            "children": [
+              {
+                "name": "Broadsword",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Recipes",
+        "children": [
+          {
+            "name": "Vanilla",
+            "children": []
+          },
+          {
+            "name": "WWoW",
+            "children": [
+              {
+                "name": "Crafting",
+                "children": []
+              },
+              {
+                "name": "Smithing",
+                "children": []
+              },
+              {
+                "name": "Weapons",
+                "children": [
+                  {
+                    "name": "Broadswords",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Procedures",
+        "children": []
+      },
+      {
+        "name": "Tag",
+        "children": [
+          {
+            "name": "Item Tags",
+            "children": []
+          },
+          {
+            "name": "Block Tags",
+            "children": []
+          },
+          {
+            "name": "Entity Tags",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Enchants",
+        "children": []
+      },
+      {
+        "name": "Blocks",
+        "children": []
+      },
+      {
+        "name": "LootTables",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "wwow",
+    "modName": "Wolfboy\u0027s Weapons of War",
+    "version": "1.0.0",
+    "author": "Oskar W. Heineck, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "just_enough_items"
+    ],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.weaponsofwar",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

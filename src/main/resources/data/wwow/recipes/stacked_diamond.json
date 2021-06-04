@@ -1,0 +1,16 @@
+{
+  "group": "stacked_diamond",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "result": {
+    "item": "wwow:stacked_diamond",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "group": "stone_broadsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stone"
+    },
+    "1": {
+      "item": "minecraft:stone"
+    },
+    "2": {
+      "item": "wwow:sugar_cane_handle"
+    }
+  },
+  "result": {
+    "item": "wwow:stone_broadsword",
+    "count": 1
+  }
+}

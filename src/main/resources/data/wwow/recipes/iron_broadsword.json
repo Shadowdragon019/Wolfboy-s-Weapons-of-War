@@ -1,0 +1,24 @@
+{
+  "group": "iron_broadsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "wwow:stacked_iron_ingot"
+    },
+    "1": {
+      "item": "wwow:stacked_iron_ingot"
+    },
+    "2": {
+      "item": "wwow:leather_handle"
+    }
+  },
+  "result": {
+    "item": "wwow:iron_broadsword",
+    "count": 1
+  }
+}

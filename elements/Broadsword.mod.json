@@ -1,0 +1,32 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:IronBroadsword"
+      },
+      {
+        "value": "CUSTOM:WoodenBroadsword"
+      },
+      {
+        "value": "CUSTOM:StoneBroadsword"
+      },
+      {
+        "value": "CUSTOM:GoldBroadsword"
+      },
+      {
+        "value": "CUSTOM:DiamondBroadsword"
+      },
+      {
+        "value": "CUSTOM:NetheriteBroadsword"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "wwow/broadsword",
+    "namespace": "forge"
+  }
+}

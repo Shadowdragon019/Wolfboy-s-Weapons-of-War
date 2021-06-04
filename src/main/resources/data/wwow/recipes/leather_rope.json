@@ -1,0 +1,16 @@
+{
+  "group": "leather_rope",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "wwow:leather_rope",
+    "count": 3
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Entities",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [
+      {
+        "value": "EntityBlaze"
+      },
+      {
+        "value": "EntityMagmaCube"
+      },
+      {
+        "value": "EntityStrider"
+      }
+    ],
+    "name": "wwow/heat",
+    "namespace": "forge"
+  }
+}

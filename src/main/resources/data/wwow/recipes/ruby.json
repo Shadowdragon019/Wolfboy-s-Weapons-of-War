@@ -1,0 +1,16 @@
+{
+  "group": "ruby",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "wwow:ruby_block"
+    }
+  },
+  "result": {
+    "item": "wwow:ruby",
+    "count": 9
+  }
+}

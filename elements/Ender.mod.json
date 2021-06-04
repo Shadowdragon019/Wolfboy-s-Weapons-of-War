@@ -1,0 +1,26 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Entities",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [
+      {
+        "value": "EntityDragon"
+      },
+      {
+        "value": "EntityEnderCrystal"
+      },
+      {
+        "value": "EntityEnderman"
+      },
+      {
+        "value": "EntityEndermite"
+      }
+    ],
+    "name": "wwow/ender",
+    "namespace": "forge"
+  }
+}

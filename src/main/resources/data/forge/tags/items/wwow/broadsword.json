@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "wwow:iron_broadsword",
+    "wwow:wooden_broadsword",
+    "wwow:stone_broadsword",
+    "wwow:gold_broadsword",
+    "wwow:diamond_broadsword",
+    "wwow:netherite_broadsword"
+  ]
+}
