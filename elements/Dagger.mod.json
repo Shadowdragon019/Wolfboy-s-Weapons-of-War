@@ -5,22 +5,13 @@
     "type": "Items",
     "items": [
       {
-        "value": "CUSTOM:WoodenBroadsword"
-      },
-      {
-        "value": "Items.WOODEN_SWORD"
-      },
-      {
-        "value": "Items.WOODEN_AXE"
-      },
-      {
         "value": "CUSTOM:WoodenDagger"
       }
     ],
     "blocks": [],
     "functions": [],
     "entities": [],
-    "name": "wwow/wooden/weapon",
+    "name": "wwow/dagger",
     "namespace": "forge"
   }
 }

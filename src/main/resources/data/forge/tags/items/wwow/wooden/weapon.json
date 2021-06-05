@@ -3,6 +3,7 @@
   "values": [
     "wwow:wooden_broadsword",
     "minecraft:wooden_sword",
-    "minecraft:wooden_axe"
+    "minecraft:wooden_axe",
+    "wwow:wooden_dagger"
   ]
 }

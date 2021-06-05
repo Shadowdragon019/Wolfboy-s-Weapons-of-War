@@ -15,6 +15,15 @@
       },
       {
         "value": "Items.WOODEN_HOE"
+      },
+      {
+        "value": "Items.FISHING_ROD"
+      },
+      {
+        "value": "Items.CARROT_ON_A_STICK"
+      },
+      {
+        "value": "Items.WARPED_FUNGUS_ON_A_STICK"
       }
     ],
     "blocks": [],

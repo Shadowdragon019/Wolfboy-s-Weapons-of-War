@@ -53,7 +53,7 @@ public class NetheriteBroadswordItem extends WwowModElements.ModElement {
 			public Ingredient getRepairMaterial() {
 				return Ingredient.fromStacks(new ItemStack(Items.NETHERITE_INGOT, (int) (1)));
 			}
-		}, 3, -2.7f, new Item.Properties().group(ItemGroup.COMBAT)) {
+		}, 3, -2.7f, new Item.Properties().group(ItemGroup.COMBAT).isImmuneToFire()) {
 			@Override
 			public void addInformation(ItemStack itemstack, World world, List<ITextComponent> list, ITooltipFlag flag) {
 				super.addInformation(itemstack, world, list, flag);
