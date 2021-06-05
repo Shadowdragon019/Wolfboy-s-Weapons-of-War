@@ -23,7 +23,7 @@ import java.util.HashMap;
 @WwowModElements.ModElement.Tag
 public class PlayerDealsCritProcedure extends WwowModElements.ModElement {
 	public PlayerDealsCritProcedure(WwowModElements instance) {
-		super(instance, 70);
+		super(instance, 73);
 		MinecraftForge.EVENT_BUS.register(this);
 	}
 
@@ -40,9 +40,8 @@ public class PlayerDealsCritProcedure extends WwowModElements.ModElement {
 		}
 		Entity entity = (Entity) dependencies.get("entity");
 		Entity sourceentity = (Entity) dependencies.get("sourceentity");
-		double attackedYaw = 0;
 		double playerYaw = 0;
-		double correctedPlayerYaw45 = 0;
+		double attackedYaw = 0;
 		playerYaw = (double) (sourceentity.rotationYaw);
 		attackedYaw = (double) (entity.rotationYaw);
 		if (((playerYaw) < 0)) {

@@ -19,4 +19,10 @@ authors="Oskar W. Heineck, MCreator"
 
 
 
+[[dependencies.wwow]]
+    modId="just_enough_items"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
 

@@ -735,28 +735,6 @@
       "path": "~/Tag/Item Tags/Material Tags"
     },
     {
-      "name": "PlayerDealsCrit",
-      "type": "procedure",
-      "sortid": 70,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "player_deals_crit",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "sourceentity",
-            "type": "entity"
-          }
-        ]
-      },
-      "path": "~/Procedures"
-    },
-    {
       "name": "WoodenDagger",
       "type": "tool",
       "sortid": 71,
@@ -775,6 +753,28 @@
       "ids": {},
       "registry_name": "dagger",
       "path": "~/Tag/Item Tags"
+    },
+    {
+      "name": "PlayerDealsCrit",
+      "type": "procedure",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "player_deals_crit",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
     }
   ],
   "variable_elements": [],
