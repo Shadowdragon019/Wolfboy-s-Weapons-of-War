@@ -52,12 +52,23 @@ public class PlayerDealsCritProcedure extends WwowModElements.ModElement {
 			attackedYaw = (double) ((attackedYaw) + 360);
 		}
 		if (sourceentity instanceof PlayerEntity && !sourceentity.world.isRemote()) {
-			((PlayerEntity) sourceentity).sendStatusMessage(new StringTextComponent(
-					(("Player Yaw: ") + "" + (Math.round((playerYaw))) + "" + (", Enemy Yaw: ") + "" + (Math.round((attackedYaw))))), (true));
+			((PlayerEntity) sourceentity).sendStatusMessage(new StringTextComponent((("Player Yaw: ") + "" + (Math.round((playerYaw))))), (false));
+		}
+		if (sourceentity instanceof PlayerEntity && !sourceentity.world.isRemote()) {
+			((PlayerEntity) sourceentity).sendStatusMessage(new StringTextComponent((("Player Yaw: ") + "" + (Math.round(((playerYaw) - 45))))),
+					(false));
+		}
+		if (sourceentity instanceof PlayerEntity && !sourceentity.world.isRemote()) {
+			((PlayerEntity) sourceentity).sendStatusMessage(new StringTextComponent((("Player Yaw: ") + "" + (Math.round(((playerYaw) + 45))))),
+					(false));
+		}
+		if (sourceentity instanceof PlayerEntity && !sourceentity.world.isRemote()) {
+			((PlayerEntity) sourceentity).sendStatusMessage(new StringTextComponent((("Enemy Yaw: ") + "" + (Math.round((attackedYaw))))), (false));
 		}
 		if (((ItemTags.getCollection().getTagByID(new ResourceLocation(("forge:wwow/dagger").toLowerCase(java.util.Locale.ENGLISH)))
 				.contains(((sourceentity instanceof LivingEntity) ? ((LivingEntity) sourceentity).getHeldItemMainhand() : ItemStack.EMPTY).getItem()))
-				&& (((attackedYaw) > ((playerYaw) - 45)) && ((attackedYaw) < ((playerYaw) + 45))))) {
+				&& ((((attackedYaw) > ((playerYaw) - 45)) && ((attackedYaw) < ((playerYaw) + 45))) || (((attackedYaw) < 45)
+						&& ((((attackedYaw) + 365) > ((playerYaw) - 45)) && (((attackedYaw) + 365) < ((playerYaw) + 45))))))) {
 			if (dependencies.get("event") != null) {
 				Object _obj = dependencies.get("event");
 				if (_obj instanceof CriticalHitEvent) {
