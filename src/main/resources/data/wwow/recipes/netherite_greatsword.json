@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "wwow:diamond_greatsword"
+  },
+  "addition": {
+    "item": "wwow:stacked_netherite_ingot"
+  },
+  "result": {
+    "item": "wwow:netherite_greatsword"
+  }
+}

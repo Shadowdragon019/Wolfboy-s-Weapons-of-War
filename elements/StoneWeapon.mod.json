@@ -12,6 +12,9 @@
       },
       {
         "value": "Items.STONE_AXE"
+      },
+      {
+        "value": "CUSTOM:StoneDagger"
       }
     ],
     "blocks": [],

@@ -1,0 +1,16 @@
+{
+  "group": "netherite_nugget",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "wwow:netherite_nugget",
+    "count": 9
+  }
+}

@@ -22,7 +22,7 @@ public class StackedDiamondItem extends WwowModElements.ModElement {
 	@ObjectHolder("wwow:stacked_diamond")
 	public static final Item block = null;
 	public StackedDiamondItem(WwowModElements instance) {
-		super(instance, 36);
+		super(instance, 12);
 	}
 
 	@Override

@@ -1,8 +1,9 @@
 {
   "replace": false,
   "values": [
-    "wwow:netherite_broadsword",
+    "wwow:netherite_greatsword",
     "minecraft:netherite_sword",
-    "minecraft:netherite_axe"
+    "minecraft:netherite_axe",
+    "wwow:netherite_dagger"
   ]
 }

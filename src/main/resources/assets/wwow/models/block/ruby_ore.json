@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "wwow:blocks/ruby_ore",
-    "particle": "wwow:blocks/ruby_ore"
-  }
-}

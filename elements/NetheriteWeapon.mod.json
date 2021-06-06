@@ -12,6 +12,9 @@
       },
       {
         "value": "Items.NETHERITE_AXE"
+      },
+      {
+        "value": "CUSTOM:NetheriteDagger"
       }
     ],
     "blocks": [],

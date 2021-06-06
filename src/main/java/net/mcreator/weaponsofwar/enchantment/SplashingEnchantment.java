@@ -14,7 +14,7 @@ public class SplashingEnchantment extends WwowModElements.ModElement {
 	@ObjectHolder("wwow:splashing")
 	public static final Enchantment enchantment = null;
 	public SplashingEnchantment(WwowModElements instance) {
-		super(instance, 23);
+		super(instance, 37);
 	}
 
 	@Override

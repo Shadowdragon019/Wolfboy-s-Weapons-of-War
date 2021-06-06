@@ -3,23 +3,29 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "need_texture_texture_1",
+    "texture": "wooden_dagger",
     "customModelName": "Normal",
     "name": "Wooden Dagger",
-    "specialInfo": [],
+    "specialInfo": [
+      "Backstabs do more damage"
+    ],
     "creativeTab": {
       "value": "COMBAT"
     },
     "toolType": "Sword",
-    "harvestLevel": 1,
-    "efficiency": 4.0,
-    "attackSpeed": 1.0,
-    "enchantability": 2,
-    "damageVsEntity": 4.0,
-    "usageCount": 100,
+    "harvestLevel": 0,
+    "efficiency": 2.0,
+    "attackSpeed": 2.1,
+    "enchantability": 15,
+    "damageVsEntity": 0.5,
+    "usageCount": 30,
     "blocksAffected": [],
     "hasGlow": false,
-    "repairItems": [],
+    "repairItems": [
+      {
+        "value": "CUSTOM:SmoothStickPiece"
+      }
+    ],
     "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false

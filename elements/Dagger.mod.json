@@ -6,6 +6,24 @@
     "items": [
       {
         "value": "CUSTOM:WoodenDagger"
+      },
+      {
+        "value": "CUSTOM:StoneDagger"
+      },
+      {
+        "value": "CUSTOM:IronDagger"
+      },
+      {
+        "value": "CUSTOM:DiamondDagger"
+      },
+      {
+        "value": "CUSTOM:NetheriteDagger"
+      },
+      {
+        "value": "CUSTOM:FancyDagger"
+      },
+      {
+        "value": "CUSTOM:GoldenDagger"
       }
     ],
     "blocks": [],

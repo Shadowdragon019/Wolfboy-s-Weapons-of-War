@@ -1,0 +1,24 @@
+{
+  "group": "stone_dagger",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stone"
+    },
+    "1": {
+      "item": "wwow:sugar_cane_handle_piece"
+    },
+    "2": {
+      "item": "wwow:cobble"
+    }
+  },
+  "result": {
+    "item": "wwow:stone_dagger",
+    "count": 1
+  }
+}

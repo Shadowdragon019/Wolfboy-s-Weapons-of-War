@@ -21,10 +21,10 @@ import java.util.List;
 
 @WwowModElements.ModElement.Tag
 public class NetheriteBroadswordItem extends WwowModElements.ModElement {
-	@ObjectHolder("wwow:netherite_broadsword")
+	@ObjectHolder("wwow:netherite_greatsword")
 	public static final Item block = null;
 	public NetheriteBroadswordItem(WwowModElements instance) {
-		super(instance, 14);
+		super(instance, 21);
 	}
 
 	@Override
@@ -59,6 +59,6 @@ public class NetheriteBroadswordItem extends WwowModElements.ModElement {
 				super.addInformation(itemstack, world, list, flag);
 				list.add(new StringTextComponent("Does more damage to armored foes"));
 			}
-		}.setRegistryName("netherite_broadsword"));
+		}.setRegistryName("netherite_greatsword"));
 	}
 }

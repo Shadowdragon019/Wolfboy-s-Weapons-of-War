@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "wwow:diamond_dagger"
+  },
+  "addition": {
+    "item": "wwow:netherite_nugget"
+  },
+  "result": {
+    "item": "wwow:netherite_dagger"
+  }
+}

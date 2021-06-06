@@ -21,10 +21,10 @@ import java.util.List;
 
 @WwowModElements.ModElement.Tag
 public class GoldBroadswordItem extends WwowModElements.ModElement {
-	@ObjectHolder("wwow:gold_broadsword")
+	@ObjectHolder("wwow:golden_greatsword")
 	public static final Item block = null;
 	public GoldBroadswordItem(WwowModElements instance) {
-		super(instance, 11);
+		super(instance, 18);
 	}
 
 	@Override
@@ -59,6 +59,6 @@ public class GoldBroadswordItem extends WwowModElements.ModElement {
 				super.addInformation(itemstack, world, list, flag);
 				list.add(new StringTextComponent("Does more damage to armored foes"));
 			}
-		}.setRegistryName("gold_broadsword"));
+		}.setRegistryName("golden_greatsword"));
 	}
 }

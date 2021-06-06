@@ -1,8 +1,9 @@
 {
   "replace": false,
   "values": [
-    "wwow:diamond_broadsword",
+    "wwow:diamond_greatsword",
     "minecraft:diamond_sword",
-    "minecraft:diamond_pickaxe"
+    "minecraft:diamond_pickaxe",
+    "wwow:diamond_dagger"
   ]
 }

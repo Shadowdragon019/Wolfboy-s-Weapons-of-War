@@ -1,0 +1,19 @@
+{
+  "group": "leather_handle",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "wwow:leather_handle_piece"
+    },
+    {
+      "item": "wwow:leather_handle_piece"
+    },
+    {
+      "item": "wwow:leather_handle_piece"
+    }
+  ],
+  "result": {
+    "item": "wwow:leather_handle",
+    "count": 1
+  }
+}

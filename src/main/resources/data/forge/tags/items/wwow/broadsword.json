@@ -1,11 +1,11 @@
 {
   "replace": false,
   "values": [
-    "wwow:iron_broadsword",
-    "wwow:wooden_broadsword",
-    "wwow:stone_broadsword",
-    "wwow:gold_broadsword",
-    "wwow:diamond_broadsword",
-    "wwow:netherite_broadsword"
+    "wwow:iron_greatsword",
+    "wwow:wooden_greatsword",
+    "wwow:stone_greatsword",
+    "wwow:golden_greatsword",
+    "wwow:diamond_greatsword",
+    "wwow:netherite_greatsword"
   ]
 }

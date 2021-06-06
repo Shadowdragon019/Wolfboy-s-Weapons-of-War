@@ -12,6 +12,9 @@
       },
       {
         "value": "Items.GOLDEN_AXE"
+      },
+      {
+        "value": "CUSTOM:GoldenDagger"
       }
     ],
     "blocks": [],

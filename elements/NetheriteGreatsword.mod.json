@@ -1,0 +1,23 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "netherite_greatsword",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "CUSTOM:DiamondBroadsword"
+    },
+    "smithingInputAdditionStack": {
+      "value": "CUSTOM:StackedNetheriteIngot"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:NetheriteBroadsword"
+    },
+    "name": "netherite_greatsword",
+    "namespace": "mod"
+  }
+}

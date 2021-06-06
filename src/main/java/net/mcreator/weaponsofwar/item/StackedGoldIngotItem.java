@@ -16,7 +16,7 @@ public class StackedGoldIngotItem extends WwowModElements.ModElement {
 	@ObjectHolder("wwow:stacked_gold_ingot")
 	public static final Item block = null;
 	public StackedGoldIngotItem(WwowModElements instance) {
-		super(instance, 6);
+		super(instance, 10);
 	}
 
 	@Override

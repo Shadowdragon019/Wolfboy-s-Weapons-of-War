@@ -1,0 +1,19 @@
+{
+  "group": "sugar_cane_handle",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "wwow:sugar_cane_handle_piece"
+    },
+    {
+      "item": "wwow:sugar_cane_handle_piece"
+    },
+    {
+      "item": "wwow:sugar_cane_handle_piece"
+    }
+  ],
+  "result": {
+    "item": "wwow:sugar_cane_handle",
+    "count": 1
+  }
+}

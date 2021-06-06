@@ -1,0 +1,16 @@
+{
+  "group": "smooth_stick_piece",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "wwow:smooth_stick"
+    }
+  },
+  "result": {
+    "item": "wwow:smooth_stick_piece",
+    "count": 3
+  }
+}

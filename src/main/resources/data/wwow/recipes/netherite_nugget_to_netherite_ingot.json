@@ -1,0 +1,42 @@
+{
+  "group": "netherite_ingot",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwow:netherite_nugget"
+    },
+    "1": {
+      "item": "wwow:netherite_nugget"
+    },
+    "2": {
+      "item": "wwow:netherite_nugget"
+    },
+    "3": {
+      "item": "wwow:netherite_nugget"
+    },
+    "4": {
+      "item": "wwow:netherite_nugget"
+    },
+    "5": {
+      "item": "wwow:netherite_nugget"
+    },
+    "6": {
+      "item": "wwow:netherite_nugget"
+    },
+    "7": {
+      "item": "wwow:netherite_nugget"
+    },
+    "8": {
+      "item": "wwow:netherite_nugget"
+    }
+  },
+  "result": {
+    "item": "minecraft:netherite_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Brewing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "fancy_dagger",
+    "recipeShapeless": false,
+    "brewingInputStack": {
+      "value": "CUSTOM:IronDagger"
+    },
+    "brewingIngredientStack": {
+      "value": "Items.GLOWSTONE_DUST"
+    },
+    "brewingReturnStack": {
+      "value": "CUSTOM:FancyDagger"
+    },
+    "name": "fancy_dagger",
+    "namespace": "mod"
+  }
+}

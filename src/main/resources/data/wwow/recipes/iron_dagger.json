@@ -1,0 +1,24 @@
+{
+  "group": "iron_dagger",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "1": {
+      "item": "wwow:leather_handle_piece"
+    },
+    "2": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "wwow:iron_dagger",
+    "count": 1
+  }
+}

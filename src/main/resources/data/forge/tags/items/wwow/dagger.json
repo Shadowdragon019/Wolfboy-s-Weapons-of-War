@@ -1,6 +1,12 @@
 {
   "replace": false,
   "values": [
-    "wwow:wooden_dagger"
+    "wwow:wooden_dagger",
+    "wwow:stone_dagger",
+    "wwow:iron_dagger",
+    "wwow:diamond_dagger",
+    "wwow:netherite_dagger",
+    "wwow:fancy_dagger",
+    "wwow:golden_dagger"
   ]
 }

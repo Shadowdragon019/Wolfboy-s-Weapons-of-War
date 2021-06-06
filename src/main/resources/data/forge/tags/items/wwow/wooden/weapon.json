@@ -1,9 +1,10 @@
 {
   "replace": false,
   "values": [
-    "wwow:wooden_broadsword",
+    "wwow:wooden_greatsword",
     "minecraft:wooden_sword",
     "minecraft:wooden_axe",
-    "wwow:wooden_dagger"
+    "wwow:wooden_dagger",
+    "wwow:fancy_dagger"
   ]
 }

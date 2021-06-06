@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "wwow:items/need_texture_texture_1"
+    "layer0": "wwow:items/wooden_dagger"
   }
 }

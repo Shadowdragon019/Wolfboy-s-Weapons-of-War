@@ -1,0 +1,16 @@
+{
+  "group": "leather_handle_piece",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "wwow:leather_handle"
+    }
+  },
+  "result": {
+    "item": "wwow:leather_handle_piece",
+    "count": 3
+  }
+}

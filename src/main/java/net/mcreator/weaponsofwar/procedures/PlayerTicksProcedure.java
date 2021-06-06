@@ -31,7 +31,7 @@ import java.util.HashMap;
 @WwowModElements.ModElement.Tag
 public class PlayerTicksProcedure extends WwowModElements.ModElement {
 	public PlayerTicksProcedure(WwowModElements instance) {
-		super(instance, 66);
+		super(instance, 73);
 		MinecraftForge.EVENT_BUS.register(this);
 	}
 

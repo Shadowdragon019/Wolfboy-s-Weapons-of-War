@@ -23,7 +23,7 @@ import java.util.HashMap;
 @WwowModElements.ModElement.Tag
 public class BeforeEntityIsHurtProcedure extends WwowModElements.ModElement {
 	public BeforeEntityIsHurtProcedure(WwowModElements instance) {
-		super(instance, 21);
+		super(instance, 35);
 		MinecraftForge.EVENT_BUS.register(this);
 	}
 

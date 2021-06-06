@@ -1,0 +1,26 @@
+{
+  "group": "cobblestone",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "wwow:cobble"
+    },
+    "1": {
+      "item": "wwow:cobble"
+    },
+    "2": {
+      "item": "wwow:cobble"
+    },
+    "3": {
+      "item": "wwow:cobble"
+    }
+  },
+  "result": {
+    "item": "minecraft:cobblestone",
+    "count": 1
+  }
+}

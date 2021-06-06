@@ -21,10 +21,10 @@ import java.util.List;
 
 @WwowModElements.ModElement.Tag
 public class DiamondBroadswordItem extends WwowModElements.ModElement {
-	@ObjectHolder("wwow:diamond_broadsword")
+	@ObjectHolder("wwow:diamond_greatsword")
 	public static final Item block = null;
 	public DiamondBroadswordItem(WwowModElements instance) {
-		super(instance, 13);
+		super(instance, 20);
 	}
 
 	@Override
@@ -59,6 +59,6 @@ public class DiamondBroadswordItem extends WwowModElements.ModElement {
 				super.addInformation(itemstack, world, list, flag);
 				list.add(new StringTextComponent("Does more damage to armored foes"));
 			}
-		}.setRegistryName("diamond_broadsword"));
+		}.setRegistryName("diamond_greatsword"));
 	}
 }

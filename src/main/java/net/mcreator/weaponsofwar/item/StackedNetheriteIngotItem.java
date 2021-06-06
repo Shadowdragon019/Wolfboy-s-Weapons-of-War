@@ -16,7 +16,7 @@ public class StackedNetheriteIngotItem extends WwowModElements.ModElement {
 	@ObjectHolder("wwow:stacked_netherite_ingot")
 	public static final Item block = null;
 	public StackedNetheriteIngotItem(WwowModElements instance) {
-		super(instance, 8);
+		super(instance, 14);
 	}
 
 	@Override

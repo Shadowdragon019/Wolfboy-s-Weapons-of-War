@@ -14,7 +14,7 @@
     {
       "name": "SmoothStickR",
       "type": "recipe",
-      "sortid": 17,
+      "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -44,7 +44,7 @@
     {
       "name": "SuagrCaneHandleR",
       "type": "recipe",
-      "sortid": 18,
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -54,7 +54,7 @@
     {
       "name": "LeatherRope",
       "type": "item",
-      "sortid": 4,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -64,7 +64,7 @@
     {
       "name": "LeatherRopeR",
       "type": "recipe",
-      "sortid": 19,
+      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -74,7 +74,7 @@
     {
       "name": "LeatherHandleR",
       "type": "recipe",
-      "sortid": 20,
+      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -84,17 +84,17 @@
     {
       "name": "IronBroadsword",
       "type": "tool",
-      "sortid": 12,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "iron_broadsword",
+      "registry_name": "iron_greatsword",
       "path": "~/Item/Weapons/Broadsword"
     },
     {
       "name": "BeforeEntityIsHurt",
       "type": "procedure",
-      "sortid": 21,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -120,7 +120,7 @@
     {
       "name": "Broadsword",
       "type": "tag",
-      "sortid": 22,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -130,7 +130,7 @@
     {
       "name": "Splashing",
       "type": "enchantment",
-      "sortid": 23,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -140,7 +140,7 @@
     {
       "name": "Ender",
       "type": "tag",
-      "sortid": 24,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -150,7 +150,7 @@
     {
       "name": "Heat",
       "type": "tag",
-      "sortid": 25,
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -160,77 +160,57 @@
     {
       "name": "WoodenBroadsword",
       "type": "tool",
-      "sortid": 9,
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wooden_broadsword",
+      "registry_name": "wooden_greatsword",
       "path": "~/Item/Weapons/Broadsword"
     },
     {
       "name": "StoneBroadsword",
       "type": "tool",
-      "sortid": 10,
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "stone_broadsword",
+      "registry_name": "stone_greatsword",
       "path": "~/Item/Weapons/Broadsword"
     },
     {
       "name": "GoldBroadsword",
       "type": "tool",
-      "sortid": 11,
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "gold_broadsword",
+      "registry_name": "golden_greatsword",
       "path": "~/Item/Weapons/Broadsword"
     },
     {
       "name": "DiamondBroadsword",
       "type": "tool",
-      "sortid": 13,
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "diamond_broadsword",
+      "registry_name": "diamond_greatsword",
       "path": "~/Item/Weapons/Broadsword"
     },
     {
       "name": "NetheriteBroadsword",
       "type": "tool",
-      "sortid": 14,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "netherite_broadsword",
+      "registry_name": "netherite_greatsword",
       "path": "~/Item/Weapons/Broadsword"
-    },
-    {
-      "name": "WoodenBroadswordR",
-      "type": "recipe",
-      "sortid": 26,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "wooden_broadsword_r",
-      "path": "~/Recipes/WWoW/Weapons/Broadswords"
-    },
-    {
-      "name": "StoneBroadswordR",
-      "type": "recipe",
-      "sortid": 27,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "stone_broadsword_r",
-      "path": "~/Recipes/WWoW/Weapons/Broadswords"
     },
     {
       "name": "StackedIronIngot",
       "type": "item",
-      "sortid": 7,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -240,7 +220,7 @@
     {
       "name": "StackedIronIngotR",
       "type": "recipe",
-      "sortid": 28,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -248,39 +228,9 @@
       "path": "~/Recipes/WWoW/Smithing"
     },
     {
-      "name": "IronBroadswordR",
-      "type": "recipe",
-      "sortid": 29,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "iron_broadsword_r",
-      "path": "~/Recipes/WWoW/Weapons/Broadswords"
-    },
-    {
-      "name": "RubyOre",
-      "type": "block",
-      "sortid": 15,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "ruby_ore",
-      "path": "~/Blocks"
-    },
-    {
-      "name": "Ruby",
-      "type": "item",
-      "sortid": 5,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "ruby",
-      "path": "~/Item"
-    },
-    {
       "name": "RubyOreLT",
       "type": "loottable",
-      "sortid": 30,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -288,19 +238,9 @@
       "path": "~/LootTables"
     },
     {
-      "name": "RubyBlock",
-      "type": "block",
-      "sortid": 16,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "ruby_block",
-      "path": "~/Blocks"
-    },
-    {
       "name": "RubyBlockR",
       "type": "recipe",
-      "sortid": 31,
+      "sortid": 42,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -310,7 +250,7 @@
     {
       "name": "RubyR",
       "type": "recipe",
-      "sortid": 32,
+      "sortid": 43,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -320,7 +260,7 @@
     {
       "name": "StackedGoldIngot",
       "type": "item",
-      "sortid": 6,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -330,7 +270,7 @@
     {
       "name": "StackedNetheriteIngot",
       "type": "item",
-      "sortid": 8,
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -340,7 +280,7 @@
     {
       "name": "StackedGoldIngotR",
       "type": "recipe",
-      "sortid": 33,
+      "sortid": 44,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -350,7 +290,7 @@
     {
       "name": "StackedNetheriteIngotR",
       "type": "recipe",
-      "sortid": 34,
+      "sortid": 45,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -358,19 +298,9 @@
       "path": "~/Recipes/WWoW/Smithing"
     },
     {
-      "name": "GoldBroadswordR",
-      "type": "recipe",
-      "sortid": 35,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "gold_broadsword_r",
-      "path": "~/Recipes/WWoW/Weapons/Broadswords"
-    },
-    {
       "name": "StackedDiamond",
       "type": "item",
-      "sortid": 36,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -380,7 +310,7 @@
     {
       "name": "StackedDiamondR",
       "type": "recipe",
-      "sortid": 37,
+      "sortid": 46,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -388,29 +318,9 @@
       "path": "~/Recipes/WWoW/Crafting"
     },
     {
-      "name": "DiamondBroadswordR",
-      "type": "recipe",
-      "sortid": 38,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "diamond_broadsword_r",
-      "path": "~/Recipes/WWoW/Weapons/Broadswords"
-    },
-    {
-      "name": "NetheriteBroadswordR",
-      "type": "recipe",
-      "sortid": 39,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "netherite_broadsword_r",
-      "path": "~/Recipes/WWoW/Weapons/Broadswords"
-    },
-    {
       "name": "WoodenTool",
       "type": "tag",
-      "sortid": 40,
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -420,7 +330,7 @@
     {
       "name": "WoodenWeapon",
       "type": "tag",
-      "sortid": 41,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -430,7 +340,7 @@
     {
       "name": "WoodenArmor",
       "type": "tag",
-      "sortid": 42,
+      "sortid": 49,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -440,7 +350,7 @@
     {
       "name": "StoneTool",
       "type": "tag",
-      "sortid": 43,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -450,7 +360,7 @@
     {
       "name": "StoneWeapon",
       "type": "tag",
-      "sortid": 44,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -460,7 +370,7 @@
     {
       "name": "StoneArmor",
       "type": "tag",
-      "sortid": 45,
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -470,7 +380,7 @@
     {
       "name": "LeatherArmor",
       "type": "tag",
-      "sortid": 46,
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -480,7 +390,7 @@
     {
       "name": "LeatherHorseArmor",
       "type": "tag",
-      "sortid": 47,
+      "sortid": 54,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -490,7 +400,7 @@
     {
       "name": "ChainmailArmor",
       "type": "tag",
-      "sortid": 48,
+      "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -500,7 +410,7 @@
     {
       "name": "GoldTool",
       "type": "tag",
-      "sortid": 49,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -510,7 +420,7 @@
     {
       "name": "GoldWeapon",
       "type": "tag",
-      "sortid": 50,
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -520,7 +430,7 @@
     {
       "name": "GoldArmor",
       "type": "tag",
-      "sortid": 51,
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -530,7 +440,7 @@
     {
       "name": "GoldHorseArmor",
       "type": "tag",
-      "sortid": 52,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -540,7 +450,7 @@
     {
       "name": "IronTool",
       "type": "tag",
-      "sortid": 53,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -550,7 +460,7 @@
     {
       "name": "IronWeapon",
       "type": "tag",
-      "sortid": 54,
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -560,7 +470,7 @@
     {
       "name": "IronArmor",
       "type": "tag",
-      "sortid": 55,
+      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -570,7 +480,7 @@
     {
       "name": "IronHorseArmor",
       "type": "tag",
-      "sortid": 56,
+      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -580,7 +490,7 @@
     {
       "name": "DiamondTool",
       "type": "tag",
-      "sortid": 57,
+      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -590,7 +500,7 @@
     {
       "name": "DiamondWeapon",
       "type": "tag",
-      "sortid": 58,
+      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -600,7 +510,7 @@
     {
       "name": "DiamondArmor",
       "type": "tag",
-      "sortid": 59,
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -610,7 +520,7 @@
     {
       "name": "DiamondHorseArmor",
       "type": "tag",
-      "sortid": 60,
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -620,7 +530,7 @@
     {
       "name": "NetheritTool",
       "type": "tag",
-      "sortid": 61,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -630,7 +540,7 @@
     {
       "name": "NetheriteWeapon",
       "type": "tag",
-      "sortid": 62,
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -640,7 +550,7 @@
     {
       "name": "NetheriteArmor",
       "type": "tag",
-      "sortid": 63,
+      "sortid": 70,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -650,7 +560,7 @@
     {
       "name": "NetheriteHorseArmor",
       "type": "tag",
-      "sortid": 64,
+      "sortid": 71,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -660,7 +570,7 @@
     {
       "name": "WoodenItemRepairTime",
       "type": "gamerule",
-      "sortid": 65,
+      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -673,7 +583,7 @@
     {
       "name": "PlayerTicks",
       "type": "procedure",
-      "sortid": 66,
+      "sortid": 73,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -707,7 +617,7 @@
     {
       "name": "WoodenHorseArmor",
       "type": "tag",
-      "sortid": 67,
+      "sortid": 74,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -717,7 +627,7 @@
     {
       "name": "StoneHorseArmor",
       "type": "tag",
-      "sortid": 68,
+      "sortid": 75,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -727,7 +637,7 @@
     {
       "name": "ChainmailHorseArmor",
       "type": "tag",
-      "sortid": 69,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -737,7 +647,7 @@
     {
       "name": "WoodenDagger",
       "type": "tool",
-      "sortid": 71,
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -747,7 +657,7 @@
     {
       "name": "Dagger",
       "type": "tag",
-      "sortid": 72,
+      "sortid": 77,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -757,7 +667,7 @@
     {
       "name": "PlayerDealsCrit",
       "type": "procedure",
-      "sortid": 73,
+      "sortid": 78,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -771,10 +681,417 @@
           {
             "name": "sourceentity",
             "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
           }
         ]
       },
       "path": "~/Procedures"
+    },
+    {
+      "name": "DaggerBackstabRange",
+      "type": "gamerule",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "daggerBackstabRange",
+      "metadata": {
+        "type": "number"
+      },
+      "path": "~/Gamerules"
+    },
+    {
+      "name": "StoneDagger",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_dagger",
+      "path": "~/Item/Weapons/Dagger"
+    },
+    {
+      "name": "IronDagger",
+      "type": "tool",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_dagger",
+      "path": "~/Item/Weapons/Dagger"
+    },
+    {
+      "name": "DiamondDagger",
+      "type": "tool",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_dagger",
+      "path": "~/Item/Weapons/Dagger"
+    },
+    {
+      "name": "NetheriteDagger",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_dagger",
+      "path": "~/Item/Weapons/Dagger"
+    },
+    {
+      "name": "FancyDagger",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fancy_dagger",
+      "path": "~/Item/Weapons/Dagger"
+    },
+    {
+      "name": "GoldenDagger",
+      "type": "tool",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_dagger",
+      "path": "~/Item/Weapons/Dagger"
+    },
+    {
+      "name": "SmoothStickPiece",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smooth_stick_piece",
+      "path": "~/Item"
+    },
+    {
+      "name": "SmoothStickPieceR",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smooth_stick_piece_r",
+      "path": "~/Recipes/WWoW/Crafting"
+    },
+    {
+      "name": "SmoothStickPieceToSmoothTick",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smooth_stick_piece_to_smooth_tick",
+      "path": "~/Recipes/WWoW/Crafting"
+    },
+    {
+      "name": "DiamondNugget",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_nugget",
+      "path": "~/Item"
+    },
+    {
+      "name": "NetheriteNugget",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_nugget",
+      "path": "~/Item"
+    },
+    {
+      "name": "NetheriteNuggetR",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_nugget_r",
+      "path": "~/Recipes/WWoW/Crafting"
+    },
+    {
+      "name": "NetheriteNuggetToNetheriteIngot",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_nugget_to_netherite_ingot",
+      "path": "~/Recipes/WWoW/Crafting"
+    },
+    {
+      "name": "DiamondNuggetR",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_nugget_r",
+      "path": "~/Recipes/WWoW/Crafting"
+    },
+    {
+      "name": "DiamondNuggetToDiamond",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_nugget_to_diamond",
+      "path": "~/Recipes/WWoW/Crafting"
+    },
+    {
+      "name": "Cobble",
+      "type": "gun",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobble",
+      "path": "~/Item"
+    },
+    {
+      "name": "CobbleR",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobble_r",
+      "path": "~/Recipes/WWoW/Crafting"
+    },
+    {
+      "name": "CobbleToCobblestone",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobble_to_cobblestone",
+      "path": "~/Recipes/WWoW/Crafting"
+    },
+    {
+      "name": "SugarCaneHandlePiece",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugar_cane_handle_piece",
+      "path": "~/Item"
+    },
+    {
+      "name": "LeatherHandlePiece",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_handle_piece",
+      "path": "~/Item"
+    },
+    {
+      "name": "SugarCaneHandlePieceR",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugar_cane_handle_piece_r",
+      "path": "~/Recipes/WWoW/Crafting"
+    },
+    {
+      "name": "SugarCanePieceToHandle",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugar_cane_piece_to_handle",
+      "path": "~/Recipes/WWoW/Crafting"
+    },
+    {
+      "name": "SugarCaneHandleToPiece",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugar_cane_handle_to_piece",
+      "path": "~/Recipes/WWoW/Crafting"
+    },
+    {
+      "name": "LeatherHandlePieceR",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_handle_piece_r",
+      "path": "~/Recipes/WWoW/Crafting"
+    },
+    {
+      "name": "LeatherHandlePieceToHandle",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_handle_piece_to_handle",
+      "path": "~/Recipes/WWoW/Crafting"
+    },
+    {
+      "name": "LeatherHandleToPiece",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_handle_to_piece",
+      "path": "~/Recipes/WWoW/Crafting"
+    },
+    {
+      "name": "WoodenDaggerR",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wooden_dagger_r",
+      "path": "~/Recipes/WWoW/Weapons/Daggers"
+    },
+    {
+      "name": "StoneDaggerR",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_dagger_r",
+      "path": "~/Recipes/WWoW/Weapons/Daggers"
+    },
+    {
+      "name": "IronDaggerR",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_dagger_r",
+      "path": "~/Recipes/WWoW/Weapons/Daggers"
+    },
+    {
+      "name": "GoldenDaggerR",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_dagger_r",
+      "path": "~/Recipes/WWoW/Weapons/Daggers"
+    },
+    {
+      "name": "DiamondDaggerR",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_dagger_r",
+      "path": "~/Recipes/WWoW/Weapons/Daggers"
+    },
+    {
+      "name": "NetheriteDaggerR",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_dagger_r",
+      "path": "~/Recipes/WWoW/Weapons/Daggers"
+    },
+    {
+      "name": "FancyDaggerR",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fancy_dagger_r",
+      "path": "~/Recipes/WWoW/Weapons/Daggers"
+    },
+    {
+      "name": "WoodenGreatsword",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wooden_greatsword",
+      "path": "~/Recipes/WWoW/Weapons/Broadswords"
+    },
+    {
+      "name": "StoneGreatsword",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_greatsword",
+      "path": "~/Recipes/WWoW/Weapons/Broadswords"
+    },
+    {
+      "name": "GoldenGreatsword",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_greatsword",
+      "path": "~/Recipes/WWoW/Weapons/Broadswords"
+    },
+    {
+      "name": "IronGreatsword",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_greatsword",
+      "path": "~/Recipes/WWoW/Weapons/Broadswords"
+    },
+    {
+      "name": "DiamondGreatsword",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_greatsword",
+      "path": "~/Recipes/WWoW/Weapons/Broadswords"
+    },
+    {
+      "name": "NetheriteGreatsword",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_greatsword",
+      "path": "~/Recipes/WWoW/Weapons/Broadswords"
     }
   ],
   "variable_elements": [],
@@ -782,26 +1099,43 @@
   "language_map": {
     "en_us": {
       "enchantment.wwow.splashing": "Splashing",
-      "item.wwow.wooden_broadsword": "Wooden Broadsword",
-      "item.wwow.sugar_cane_handle": "Sugar Cane Handle",
+      "item.wwow.wooden_greatsword": "Wooden Greatsword",
+      "item.wwow.fancy_dagger": "§eFancy Dagger",
+      "item.minecraft.diamond_sword": "Diamond Broadsword",
+      "item.wwow.netherite_nugget": "Netherite Nugget",
+      "item.wwow.iron_greatsword": "Iron Greatsword",
+      "item.wwow.smooth_stick_piece": "Smooth Stick Piece",
       "item.wwow.leather_rope": "Leather Rope",
       "item.wwow.stacked_iron_ingot": "Stacked Iron Ingot",
-      "block.wwow.ruby_ore": "Ruby Ore",
-      "item.wwow.iron_broadsword": "Iron Broadsword",
-      "item.wwow.gold_broadsword": "Gold Broadsword",
-      "block.wwow.ruby_block": "Block of Ruby",
       "gamerule.woodenItemRepairTime.description": "The amount of time (in ticks) a Wooden item repairs 1 durability",
-      "item.wwow.smooth_stick": "Smooth Stick",
+      "gamerule.daggerBackstabRange": "Dagger Backstab Range",
       "item.wwow.stacked_netherite_ingot": "Stacked Netherite Ingot",
-      "item.wwow.leather_handle": "Leather Handle",
-      "item.wwow.netherite_broadsword": "Netherite Broadsword",
       "item.wwow.stacked_diamond": "Stacked Diamond",
-      "item.wwow.stone_broadsword": "Stone Broadsword",
-      "item.wwow.ruby": "Ruby",
+      "gamerule.woodenItemRepairTime": "Wooden Itrem Repair Time",
+      "gamerule.daggerBackstabRange.description": "The range of when you can backstab",
+      "item.wwow.stone_dagger": "Stone Dagger",
+      "item.wwow.netherite_greatsword": "Netherite Greatsword",
+      "item.minecraft.netherite_sword": "Netherite Broadsword",
+      "item.wwow.golden_dagger": "Golden Dagger",
+      "item.wwow.sugar_cane_handle_piece": "Sugar Cane Handle Piece",
+      "item.wwow.sugar_cane_handle": "Sugar Cane Handle",
+      "item.minecraft.wooden_sword": "Wooden Broadsword",
+      "item.minecraft.iron_sword": "Iron Broadsword",
+      "item.wwow.golden_greatsword": "Golden Greatsword",
+      "item.minecraft.stone_sword": "Stone Broadsword",
+      "item.wwow.cobble": "Cobble",
+      "item.wwow.diamond_nugget": "Diamond Nugget",
+      "item.wwow.smooth_stick": "Smooth Stick",
+      "item.wwow.leather_handle": "Leather Handle",
+      "item.wwow.iron_dagger": "Iron Dagger",
+      "item.wwow.leather_handle_piece": "Leather Handle Piece",
       "item.wwow.wooden_dagger": "Wooden Dagger",
-      "item.wwow.diamond_broadsword": "Diamond Broadsword",
+      "item.wwow.diamond_dagger": "Diamond Dagger",
+      "item.wwow.netherite_dagger": "Netherite Dagger",
       "item.wwow.stacked_gold_ingot": "Stacked Gold Ingot",
-      "gamerule.woodenItemRepairTime": "Wooden Itrem Repair Time"
+      "item.wwow.diamond_greatsword": "Diamond Greatsword",
+      "item.minecraft.golden_sword": "Golden Broadsword",
+      "item.wwow.stone_greatsword": "Stone Greatsword"
     }
   },
   "foldersRoot": {
@@ -848,6 +1182,10 @@
                 "children": [
                   {
                     "name": "Broadswords",
+                    "children": []
+                  },
+                  {
+                    "name": "Daggers",
                     "children": []
                   }
                 ]

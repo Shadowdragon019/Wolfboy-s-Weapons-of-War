@@ -13,7 +13,7 @@ public class WoodenItemRepairTimeGameRule extends WwowModElements.ModElement {
 	public static final GameRules.RuleKey<GameRules.IntegerValue> gamerule = GameRules.register("woodenItemRepairTime", GameRules.Category.PLAYER,
 			create(400));
 	public WoodenItemRepairTimeGameRule(WwowModElements instance) {
-		super(instance, 65);
+		super(instance, 72);
 	}
 
 	public static GameRules.RuleType<GameRules.IntegerValue> create(int defaultValue) {

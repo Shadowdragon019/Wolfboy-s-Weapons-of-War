@@ -1,0 +1,19 @@
+{
+  "group": "smooth_stick",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "wwow:smooth_stick_piece"
+    },
+    {
+      "item": "wwow:smooth_stick_piece"
+    },
+    {
+      "item": "wwow:smooth_stick_piece"
+    }
+  ],
+  "result": {
+    "item": "wwow:smooth_stick",
+    "count": 1
+  }
+}

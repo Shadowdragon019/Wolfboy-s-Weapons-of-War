@@ -12,6 +12,9 @@
       },
       {
         "value": "Items.IRON_AXE"
+      },
+      {
+        "value": "CUSTOM:IronDagger"
       }
     ],
     "blocks": [],

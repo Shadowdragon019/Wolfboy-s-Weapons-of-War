@@ -1,0 +1,16 @@
+{
+  "group": "sugar_cane_piece",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "wwow:sugar_cane_handle"
+    }
+  },
+  "result": {
+    "item": "wwow:sugar_cane_handle_piece",
+    "count": 3
+  }
+}

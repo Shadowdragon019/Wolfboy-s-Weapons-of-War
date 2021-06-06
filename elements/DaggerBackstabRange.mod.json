@@ -1,0 +1,12 @@
+{
+  "_fv": 18,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Number",
+    "displayName": "Dagger Backstab Range",
+    "description": "The range of when you can backstab",
+    "category": "PLAYER",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 130
+  }
+}

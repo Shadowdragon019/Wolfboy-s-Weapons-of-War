@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "netherite_ingot",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:NetheriteNugget"
+      },
+      {
+        "value": "CUSTOM:NetheriteNugget"
+      },
+      {
+        "value": "CUSTOM:NetheriteNugget"
+      },
+      {
+        "value": "CUSTOM:NetheriteNugget"
+      },
+      {
+        "value": "CUSTOM:NetheriteNugget"
+      },
+      {
+        "value": "CUSTOM:NetheriteNugget"
+      },
+      {
+        "value": "CUSTOM:NetheriteNugget"
+      },
+      {
+        "value": "CUSTOM:NetheriteNugget"
+      },
+      {
+        "value": "CUSTOM:NetheriteNugget"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.NETHERITE_INGOT"
+    },
+    "name": "netherite_nugget_to_netherite_ingot",
+    "namespace": "mod"
+  }
+}

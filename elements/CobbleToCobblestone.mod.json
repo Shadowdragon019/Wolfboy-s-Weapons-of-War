@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "cobblestone",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Cobble"
+      },
+      {
+        "value": "CUSTOM:Cobble"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Cobble"
+      },
+      {
+        "value": "CUSTOM:Cobble"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.COBBLESTONE"
+    },
+    "name": "cobble_to_cobblestone",
+    "namespace": "mod"
+  }
+}

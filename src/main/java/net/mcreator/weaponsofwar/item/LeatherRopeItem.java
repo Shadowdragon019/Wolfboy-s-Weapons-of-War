@@ -16,7 +16,7 @@ public class LeatherRopeItem extends WwowModElements.ModElement {
 	@ObjectHolder("wwow:leather_rope")
 	public static final Item block = null;
 	public LeatherRopeItem(WwowModElements instance) {
-		super(instance, 4);
+		super(instance, 7);
 	}
 
 	@Override
