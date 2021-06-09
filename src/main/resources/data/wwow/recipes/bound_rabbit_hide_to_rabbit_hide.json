@@ -1,0 +1,13 @@
+{
+  "group": "rabbit_hide",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "wwow:bound_rabbit_hide"
+    }
+  ],
+  "result": {
+    "item": "minecraft:rabbit_hide",
+    "count": 9
+  }
+}

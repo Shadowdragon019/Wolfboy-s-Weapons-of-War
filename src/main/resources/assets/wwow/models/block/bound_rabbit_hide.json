@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wwow:blocks/bound_rabbit_hide",
+    "up": "wwow:blocks/bound_rabbit_hide",
+    "north": "wwow:blocks/bound_rabbit_hide",
+    "east": "wwow:blocks/bound_rabbit_hide",
+    "south": "wwow:blocks/bound_rabbit_hide",
+    "west": "wwow:blocks/bound_rabbit_hide",
+    "particle": "wwow:blocks/bound_rabbit_hide"
+  }
+}

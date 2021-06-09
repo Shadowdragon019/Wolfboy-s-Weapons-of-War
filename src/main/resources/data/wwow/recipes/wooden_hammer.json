@@ -1,0 +1,30 @@
+{
+  "group": "wooden_hammer",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:logs"
+    },
+    "1": {
+      "tag": "minecraft:logs"
+    },
+    "2": {
+      "tag": "minecraft:logs"
+    },
+    "4": {
+      "item": "wwow:bound_sugar_cane"
+    },
+    "7": {
+      "item": "wwow:sugar_cane_handle"
+    }
+  },
+  "result": {
+    "item": "wwow:wooden_hammer",
+    "count": 1
+  }
+}

@@ -9,7 +9,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "smooth_stick",
-      "path": "~/Item"
+      "path": "~/Item/Materials/Sticks"
     },
     {
       "name": "SmoothStickR",
@@ -19,7 +19,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "smooth_stick_r",
-      "path": "~/Recipes/WWoW/Crafting"
+      "path": "~/Recipes/WWoW/Crafting/Items"
     },
     {
       "name": "SugarCaneHandle",
@@ -29,7 +29,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "sugar_cane_handle",
-      "path": "~/Item"
+      "path": "~/Item/Materials/Handles"
     },
     {
       "name": "LeatherHandle",
@@ -39,7 +39,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "leather_handle",
-      "path": "~/Item"
+      "path": "~/Item/Materials/Handles"
     },
     {
       "name": "SuagrCaneHandleR",
@@ -49,17 +49,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "suagr_cane_handle_r",
-      "path": "~/Recipes/WWoW/Crafting"
-    },
-    {
-      "name": "LeatherRope",
-      "type": "item",
-      "sortid": 7,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "leather_rope",
-      "path": "~/Item"
+      "path": "~/Recipes/WWoW/Crafting/Items"
     },
     {
       "name": "LeatherRopeR",
@@ -69,7 +59,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "leather_rope_r",
-      "path": "~/Recipes/WWoW/Crafting"
+      "path": "~/Recipes/WWoW/Crafting/Items"
     },
     {
       "name": "LeatherHandleR",
@@ -79,7 +69,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "leather_handle_r",
-      "path": "~/Recipes/WWoW/Crafting"
+      "path": "~/Recipes/WWoW/Crafting/Items"
     },
     {
       "name": "IronBroadsword",
@@ -215,7 +205,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "stacked_iron_ingot",
-      "path": "~/Item"
+      "path": "~/Item/Materials/Ingots/Stacked Ingots"
     },
     {
       "name": "StackedIronIngotR",
@@ -238,26 +228,6 @@
       "path": "~/LootTables"
     },
     {
-      "name": "RubyBlockR",
-      "type": "recipe",
-      "sortid": 42,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "ruby_block_r",
-      "path": "~/Recipes/WWoW/Crafting"
-    },
-    {
-      "name": "RubyR",
-      "type": "recipe",
-      "sortid": 43,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "ruby_r",
-      "path": "~/Recipes/WWoW/Crafting"
-    },
-    {
       "name": "StackedGoldIngot",
       "type": "item",
       "sortid": 10,
@@ -265,7 +235,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "stacked_gold_ingot",
-      "path": "~/Item"
+      "path": "~/Item/Materials/Ingots/Stacked Ingots"
     },
     {
       "name": "StackedNetheriteIngot",
@@ -275,7 +245,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "stacked_netherite_ingot",
-      "path": "~/Item"
+      "path": "~/Item/Materials/Ingots/Stacked Ingots"
     },
     {
       "name": "StackedGoldIngotR",
@@ -305,7 +275,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "stacked_diamond",
-      "path": "~/Item"
+      "path": "~/Item/Materials/Ingots/Stacked Ingots"
     },
     {
       "name": "StackedDiamondR",
@@ -315,7 +285,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "stacked_diamond_r",
-      "path": "~/Recipes/WWoW/Crafting"
+      "path": "~/Recipes/WWoW/Crafting/Items"
     },
     {
       "name": "WoodenTool",
@@ -771,7 +741,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "smooth_stick_piece",
-      "path": "~/Item"
+      "path": "~/Item/Materials/Handles"
     },
     {
       "name": "SmoothStickPieceR",
@@ -781,7 +751,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "smooth_stick_piece_r",
-      "path": "~/Recipes/WWoW/Crafting"
+      "path": "~/Recipes/WWoW/Crafting/Items"
     },
     {
       "name": "SmoothStickPieceToSmoothTick",
@@ -791,7 +761,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "smooth_stick_piece_to_smooth_tick",
-      "path": "~/Recipes/WWoW/Crafting"
+      "path": "~/Recipes/WWoW/Crafting/Items"
     },
     {
       "name": "DiamondNugget",
@@ -801,7 +771,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "diamond_nugget",
-      "path": "~/Item"
+      "path": "~/Item/Materials/Nuggets"
     },
     {
       "name": "NetheriteNugget",
@@ -811,7 +781,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "netherite_nugget",
-      "path": "~/Item"
+      "path": "~/Item/Materials/Nuggets"
     },
     {
       "name": "NetheriteNuggetR",
@@ -821,7 +791,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "netherite_nugget_r",
-      "path": "~/Recipes/WWoW/Crafting"
+      "path": "~/Recipes/WWoW/Crafting/Items"
     },
     {
       "name": "NetheriteNuggetToNetheriteIngot",
@@ -831,7 +801,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "netherite_nugget_to_netherite_ingot",
-      "path": "~/Recipes/WWoW/Crafting"
+      "path": "~/Recipes/WWoW/Crafting/Items"
     },
     {
       "name": "DiamondNuggetR",
@@ -841,7 +811,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "diamond_nugget_r",
-      "path": "~/Recipes/WWoW/Crafting"
+      "path": "~/Recipes/WWoW/Crafting/Items"
     },
     {
       "name": "DiamondNuggetToDiamond",
@@ -851,7 +821,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "diamond_nugget_to_diamond",
-      "path": "~/Recipes/WWoW/Crafting"
+      "path": "~/Recipes/WWoW/Crafting/Items"
     },
     {
       "name": "Cobble",
@@ -861,7 +831,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cobble",
-      "path": "~/Item"
+      "path": "~/Item/Materials/Nuggets"
     },
     {
       "name": "CobbleR",
@@ -871,7 +841,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cobble_r",
-      "path": "~/Recipes/WWoW/Crafting"
+      "path": "~/Recipes/WWoW/Crafting/Items"
     },
     {
       "name": "CobbleToCobblestone",
@@ -881,7 +851,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cobble_to_cobblestone",
-      "path": "~/Recipes/WWoW/Crafting"
+      "path": "~/Recipes/WWoW/Crafting/Items"
     },
     {
       "name": "SugarCaneHandlePiece",
@@ -891,7 +861,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "sugar_cane_handle_piece",
-      "path": "~/Item"
+      "path": "~/Item/Materials/Handles"
     },
     {
       "name": "LeatherHandlePiece",
@@ -901,7 +871,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "leather_handle_piece",
-      "path": "~/Item"
+      "path": "~/Item/Materials/Handles"
     },
     {
       "name": "SugarCaneHandlePieceR",
@@ -911,7 +881,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "sugar_cane_handle_piece_r",
-      "path": "~/Recipes/WWoW/Crafting"
+      "path": "~/Recipes/WWoW/Crafting/Items"
     },
     {
       "name": "SugarCanePieceToHandle",
@@ -921,7 +891,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "sugar_cane_piece_to_handle",
-      "path": "~/Recipes/WWoW/Crafting"
+      "path": "~/Recipes/WWoW/Crafting/Items"
     },
     {
       "name": "SugarCaneHandleToPiece",
@@ -931,7 +901,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "sugar_cane_handle_to_piece",
-      "path": "~/Recipes/WWoW/Crafting"
+      "path": "~/Recipes/WWoW/Crafting/Items"
     },
     {
       "name": "LeatherHandlePieceR",
@@ -941,7 +911,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "leather_handle_piece_r",
-      "path": "~/Recipes/WWoW/Crafting"
+      "path": "~/Recipes/WWoW/Crafting/Items"
     },
     {
       "name": "LeatherHandlePieceToHandle",
@@ -951,7 +921,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "leather_handle_piece_to_handle",
-      "path": "~/Recipes/WWoW/Crafting"
+      "path": "~/Recipes/WWoW/Crafting/Items"
     },
     {
       "name": "LeatherHandleToPiece",
@@ -961,7 +931,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "leather_handle_to_piece",
-      "path": "~/Recipes/WWoW/Crafting"
+      "path": "~/Recipes/WWoW/Crafting/Items"
     },
     {
       "name": "WoodenDaggerR",
@@ -1092,6 +1062,136 @@
       "ids": {},
       "registry_name": "netherite_greatsword",
       "path": "~/Recipes/WWoW/Weapons/Broadswords"
+    },
+    {
+      "name": "WoodenSword",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wooden_sword",
+      "path": "~/Recipes/Vanilla"
+    },
+    {
+      "name": "WoodenHammer",
+      "type": "tool",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wooden_hammer",
+      "path": "~/Item/Weapons/Hammer"
+    },
+    {
+      "name": "WoodenHammerR",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wooden_hammer_r",
+      "path": "~/Recipes/WWoW/Weapons/Hammers"
+    },
+    {
+      "name": "BoundSugarCane",
+      "type": "block",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bound_sugar_cane",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "BouneLeather",
+      "type": "block",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boune_leather",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "BoundRabbitHide",
+      "type": "block",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bound_rabbit_hide",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "LeatherToBoundLeather",
+      "type": "recipe",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_to_bound_leather",
+      "path": "~/Recipes/WWoW/Crafting/Blocks/Bound"
+    },
+    {
+      "name": "BoundLeatherToLeather",
+      "type": "recipe",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bound_leather_to_leather",
+      "path": "~/Recipes/WWoW/Crafting/Blocks/Bound"
+    },
+    {
+      "name": "SugarCaneToBoundSugarCane",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugar_cane_to_bound_sugar_cane",
+      "path": "~/Recipes/WWoW/Crafting/Blocks/Bound"
+    },
+    {
+      "name": "BoundSugarCaneToSugarCane",
+      "type": "recipe",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bound_sugar_cane_to_sugar_cane",
+      "path": "~/Recipes/WWoW/Crafting/Blocks/Bound"
+    },
+    {
+      "name": "RabbitHideToBoundRabbitHide",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rabbit_hide_to_bound_rabbit_hide",
+      "path": "~/Recipes/WWoW/Crafting/Blocks/Bound"
+    },
+    {
+      "name": "BoundRabbitHideToRabbitHide",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bound_rabbit_hide_to_rabbit_hide",
+      "path": "~/Recipes/WWoW/Crafting/Blocks/Bound"
+    },
+    {
+      "name": "LeatherRope",
+      "type": "block",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_rope",
+      "path": "~/Blocks"
     }
   ],
   "variable_elements": [],
@@ -1100,19 +1200,20 @@
     "en_us": {
       "enchantment.wwow.splashing": "Splashing",
       "item.wwow.wooden_greatsword": "Wooden Greatsword",
-      "item.wwow.fancy_dagger": "§eFancy Dagger",
       "item.minecraft.diamond_sword": "Diamond Broadsword",
+      "item.wwow.fancy_dagger": "§eFancy Dagger",
       "item.wwow.netherite_nugget": "Netherite Nugget",
       "item.wwow.iron_greatsword": "Iron Greatsword",
       "item.wwow.smooth_stick_piece": "Smooth Stick Piece",
-      "item.wwow.leather_rope": "Leather Rope",
       "item.wwow.stacked_iron_ingot": "Stacked Iron Ingot",
+      "item.wwow.wooden_hammer": "Wooden Hammer",
       "gamerule.woodenItemRepairTime.description": "The amount of time (in ticks) a Wooden item repairs 1 durability",
       "gamerule.daggerBackstabRange": "Dagger Backstab Range",
       "item.wwow.stacked_netherite_ingot": "Stacked Netherite Ingot",
       "item.wwow.stacked_diamond": "Stacked Diamond",
       "gamerule.woodenItemRepairTime": "Wooden Itrem Repair Time",
       "gamerule.daggerBackstabRange.description": "The range of when you can backstab",
+      "block.wwow.leather_rope": "Leather Rope",
       "item.wwow.stone_dagger": "Stone Dagger",
       "item.wwow.netherite_greatsword": "Netherite Greatsword",
       "item.minecraft.netherite_sword": "Netherite Broadsword",
@@ -1122,6 +1223,8 @@
       "item.minecraft.wooden_sword": "Wooden Broadsword",
       "item.minecraft.iron_sword": "Iron Broadsword",
       "item.wwow.golden_greatsword": "Golden Greatsword",
+      "block.wwow.bound_sugar_cane": "Bound Sugar Cane",
+      "block.wwow.boune_leather": "Bound Leather",
       "item.minecraft.stone_sword": "Stone Broadsword",
       "item.wwow.cobble": "Cobble",
       "item.wwow.diamond_nugget": "Diamond Nugget",
@@ -1132,6 +1235,7 @@
       "item.wwow.wooden_dagger": "Wooden Dagger",
       "item.wwow.diamond_dagger": "Diamond Dagger",
       "item.wwow.netherite_dagger": "Netherite Dagger",
+      "block.wwow.bound_rabbit_hide": "Bound Rabbit Hide",
       "item.wwow.stacked_gold_ingot": "Stacked Gold Ingot",
       "item.wwow.diamond_greatsword": "Diamond Greatsword",
       "item.minecraft.golden_sword": "Golden Broadsword",
@@ -1154,6 +1258,36 @@
               {
                 "name": "Dagger",
                 "children": []
+              },
+              {
+                "name": "Hammer",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Materials",
+            "children": [
+              {
+                "name": "Ingots",
+                "children": [
+                  {
+                    "name": "Stacked Ingots",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Sticks",
+                "children": []
+              },
+              {
+                "name": "Handles",
+                "children": []
+              },
+              {
+                "name": "Nuggets",
+                "children": []
               }
             ]
           }
@@ -1171,7 +1305,21 @@
             "children": [
               {
                 "name": "Crafting",
-                "children": []
+                "children": [
+                  {
+                    "name": "Blocks",
+                    "children": [
+                      {
+                        "name": "Bound",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Items",
+                    "children": []
+                  }
+                ]
               },
               {
                 "name": "Smithing",
@@ -1186,6 +1334,10 @@
                   },
                   {
                     "name": "Daggers",
+                    "children": []
+                  },
+                  {
+                    "name": "Hammers",
                     "children": []
                   }
                 ]

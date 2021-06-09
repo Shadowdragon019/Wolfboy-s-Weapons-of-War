@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "leather_rope": "leather_rope_variant"
+      },
+      "name": "default"
+    }
+  }
+}

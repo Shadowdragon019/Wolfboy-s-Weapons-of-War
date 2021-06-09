@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "rabbit_hide_rope": "rabbit_hide_rope"
+      },
+      "name": "default"
+    }
+  }
+}

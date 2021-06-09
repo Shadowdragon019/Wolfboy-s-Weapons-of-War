@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wwow:blocks/bound_sugar_cane",
+    "up": "wwow:blocks/bound_sugar_cane",
+    "north": "wwow:blocks/bound_sugar_cane",
+    "east": "wwow:blocks/bound_sugar_cane",
+    "south": "wwow:blocks/bound_sugar_cane",
+    "west": "wwow:blocks/bound_sugar_cane",
+    "particle": "wwow:blocks/bound_sugar_cane"
+  }
+}

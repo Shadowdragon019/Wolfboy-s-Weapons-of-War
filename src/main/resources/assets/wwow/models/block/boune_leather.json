@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wwow:blocks/bound_leather",
+    "up": "wwow:blocks/bound_leather",
+    "north": "wwow:blocks/bound_leather",
+    "east": "wwow:blocks/bound_leather",
+    "south": "wwow:blocks/bound_leather",
+    "west": "wwow:blocks/bound_leather",
+    "particle": "wwow:blocks/bound_leather"
+  }
+}

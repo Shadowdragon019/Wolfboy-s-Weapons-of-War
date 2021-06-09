@@ -1,5 +1,5 @@
 {
-  "parent": "wwow:block/leather_rope",
+  "parent": "wwow:block/bound_sugar_cane",
   "display": {
     "thirdperson": {
       "rotation": [

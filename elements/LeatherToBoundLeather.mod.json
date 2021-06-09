@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "bound_leather",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:LeatherRope"
+      },
+      {
+        "value": "CUSTOM:LeatherRope"
+      },
+      {
+        "value": "CUSTOM:LeatherRope"
+      },
+      {
+        "value": "CUSTOM:LeatherRope"
+      },
+      {
+        "value": "CUSTOM:LeatherRope"
+      },
+      {
+        "value": "CUSTOM:LeatherRope"
+      },
+      {
+        "value": "CUSTOM:LeatherRope"
+      },
+      {
+        "value": "CUSTOM:LeatherRope"
+      },
+      {
+        "value": "CUSTOM:LeatherRope"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BouneLeather"
+    },
+    "name": "leather_to_bound_leather",
+    "namespace": "mod"
+  }
+}

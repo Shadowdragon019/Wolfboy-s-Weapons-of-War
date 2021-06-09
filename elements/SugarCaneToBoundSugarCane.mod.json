@@ -6,41 +6,41 @@
     "xpReward": 0.0,
     "cookingTime": 200,
     "recipeRetstackSize": 1,
-    "group": "ruby_block",
+    "group": "bound_sugar_cane",
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "CUSTOM:Ruby"
+        "value": "Blocks.REEDS"
       },
       {
-        "value": "CUSTOM:Ruby"
+        "value": "Blocks.REEDS"
       },
       {
-        "value": "CUSTOM:Ruby"
+        "value": "Blocks.REEDS"
       },
       {
-        "value": "CUSTOM:Ruby"
+        "value": "Blocks.REEDS"
       },
       {
-        "value": "CUSTOM:Ruby"
+        "value": "Blocks.REEDS"
       },
       {
-        "value": "CUSTOM:Ruby"
+        "value": "Blocks.REEDS"
       },
       {
-        "value": "CUSTOM:Ruby"
+        "value": "Blocks.REEDS"
       },
       {
-        "value": "CUSTOM:Ruby"
+        "value": "Blocks.REEDS"
       },
       {
-        "value": "CUSTOM:Ruby"
+        "value": "Blocks.REEDS"
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:RubyBlock"
+      "value": "CUSTOM:BoundSugarCane"
     },
-    "name": "ruby_block",
+    "name": "sugar_cane_to_bound_sugar_cane",
     "namespace": "mod"
   }
 }

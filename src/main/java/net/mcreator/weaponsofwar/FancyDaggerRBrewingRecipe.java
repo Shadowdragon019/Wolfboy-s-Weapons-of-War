@@ -14,7 +14,7 @@ import net.mcreator.weaponsofwar.item.FancyDaggerItem;
 @WwowModElements.ModElement.Tag
 public class FancyDaggerRBrewingRecipe extends WwowModElements.ModElement {
 	public FancyDaggerRBrewingRecipe(WwowModElements instance) {
-		super(instance, 106);
+		super(instance, 100);
 	}
 
 	@Override

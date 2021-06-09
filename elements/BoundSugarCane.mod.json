@@ -2,14 +2,14 @@
   "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "leather_rope_variant",
+    "texture": "bound_sugar_cane",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
     "textureRight": "",
     "textureBack": "",
-    "renderType": 2,
-    "customModelName": "leather_rope:default",
+    "renderType": 10,
+    "customModelName": "Normal",
     "rotationMode": 0,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
@@ -17,7 +17,7 @@
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,
-    "hasTransparency": true,
+    "hasTransparency": false,
     "connectedSides": false,
     "transparencyType": "SOLID",
     "disableOffset": false,
@@ -32,10 +32,10 @@
         "subtract": false
       }
     ],
-    "name": "Leather Rope",
+    "name": "Bound Sugar Cane",
     "specialInfo": [],
-    "hardness": 0.2,
-    "resistance": 1.0,
+    "hardness": 0.8,
+    "resistance": 0.8,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
@@ -50,7 +50,7 @@
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
     "canProvidePower": false,
-    "lightOpacity": 0,
+    "lightOpacity": 255,
     "material": {
       "value": "CLOTH"
     },
@@ -72,7 +72,7 @@
     "reactionToPushing": "NORMAL",
     "isNotColidable": false,
     "soundOnStep": {
-      "value": "CLOTH"
+      "value": "CROP"
     },
     "luminance": 0,
     "unbreakable": false,

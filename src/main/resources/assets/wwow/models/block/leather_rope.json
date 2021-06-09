@@ -1,0 +1,8 @@
+{
+  "parent": "wwow:custom/leather_rope",
+  "textures": {
+    "all": "wwow:blocks/leather_rope_variant",
+    "particle": "wwow:blocks/leather_rope_variant",
+    "leather_rope": "wwow:blocks/leather_rope_variant"
+  }
+}

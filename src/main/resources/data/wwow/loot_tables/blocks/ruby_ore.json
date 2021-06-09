@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "wwow:ruby_ore",
+          "name": "wwow:deleted_mod_element",
           "weight": 1,
           "conditions": [
             {
@@ -40,7 +40,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "wwow:ruby",
+          "name": "wwow:deleted_mod_element",
           "weight": 1,
           "conditions": [
             {

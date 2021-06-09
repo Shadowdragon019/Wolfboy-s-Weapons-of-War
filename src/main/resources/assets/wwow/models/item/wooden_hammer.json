@@ -1,0 +1,7 @@
+{
+  "parent": "wwow:custom/wooden_hammer",
+  "textures": {
+    "wooden_hammer": "wwow:blocks/wooden_hammer",
+    "particle": "wwow:items/wooden_hammer"
+  }
+}

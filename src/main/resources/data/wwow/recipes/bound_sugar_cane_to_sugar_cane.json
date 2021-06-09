@@ -1,0 +1,13 @@
+{
+  "group": "sugar_cane",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "wwow:bound_sugar_cane"
+    }
+  ],
+  "result": {
+    "item": "minecraft:sugar_cane",
+    "count": 9
+  }
+}

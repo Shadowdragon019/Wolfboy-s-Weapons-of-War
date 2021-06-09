@@ -6,8 +6,8 @@
     "xpReward": 0.0,
     "cookingTime": 200,
     "recipeRetstackSize": 9,
-    "group": "ruby",
-    "recipeShapeless": false,
+    "group": "rabbit_hide",
+    "recipeShapeless": true,
     "recipeSlots": [
       {
         "value": ""
@@ -22,7 +22,7 @@
         "value": ""
       },
       {
-        "value": "CUSTOM:RubyBlock"
+        "value": "CUSTOM:BoundRabbitHide"
       },
       {
         "value": ""
@@ -38,9 +38,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Ruby"
+      "value": "Items.RABBIT_HIDE"
     },
-    "name": "ruby",
+    "name": "bound_rabbit_hide_to_rabbit_hide",
     "namespace": "mod"
   }
 }

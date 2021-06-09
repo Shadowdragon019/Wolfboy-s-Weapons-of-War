@@ -1,0 +1,13 @@
+{
+  "group": "leather",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "wwow:boune_leather"
+    }
+  ],
+  "result": {
+    "item": "wwow:leather_rope",
+    "count": 9
+  }
+}
