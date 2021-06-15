@@ -1,0 +1,13 @@
+{
+  "group": "rabbit_hide_rope",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:rabbit_hide"
+    }
+  ],
+  "result": {
+    "item": "wwow:rabbit_hide_rope",
+    "count": 3
+  }
+}

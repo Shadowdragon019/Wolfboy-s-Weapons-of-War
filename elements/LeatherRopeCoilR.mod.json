@@ -1,0 +1,46 @@
+{
+  "_fv": 21,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "leather_rope_coil",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:LeatherRope"
+      },
+      {
+        "value": "CUSTOM:LeatherRope"
+      },
+      {
+        "value": "CUSTOM:LeatherRope"
+      },
+      {
+        "value": "CUSTOM:LeatherRope"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LeatherRope"
+      },
+      {
+        "value": "CUSTOM:LeatherRope"
+      },
+      {
+        "value": "CUSTOM:LeatherRope"
+      },
+      {
+        "value": "CUSTOM:LeatherRope"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LeatherRopeCoil"
+    },
+    "name": "leather_rope_coil",
+    "namespace": "mod"
+  }
+}

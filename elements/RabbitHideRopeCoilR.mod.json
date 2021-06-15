@@ -1,0 +1,46 @@
+{
+  "_fv": 21,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "rabbit_hide_rope_coil",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:RabbitHideRope"
+      },
+      {
+        "value": "CUSTOM:RabbitHideRope"
+      },
+      {
+        "value": "CUSTOM:RabbitHideRope"
+      },
+      {
+        "value": "CUSTOM:RabbitHideRope"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:RabbitHideRope"
+      },
+      {
+        "value": "CUSTOM:RabbitHideRope"
+      },
+      {
+        "value": "CUSTOM:RabbitHideRope"
+      },
+      {
+        "value": "CUSTOM:RabbitHideRope"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RabbitHideCoil"
+    },
+    "name": "rabbit_hide_rope_coil",
+    "namespace": "mod"
+  }
+}

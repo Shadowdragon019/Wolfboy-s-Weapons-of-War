@@ -1,0 +1,11 @@
+{
+  "parent": "wwow:custom/magmator",
+  "textures": {
+    "all": "wwow:blocks/magmator_top",
+    "particle": "wwow:blocks/magmator_top",
+    "magmator_side": "wwow:blocks/magmator_side",
+    "magmator_front": "wwow:blocks/magmator_front",
+    "magma": "wwow:blocks/leather_rope_variant",
+    "magmator_top": "wwow:blocks/magmator_top"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "rabbit_hide_rope_coil",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwow:rabbit_hide_rope"
+    },
+    "1": {
+      "item": "wwow:rabbit_hide_rope"
+    },
+    "2": {
+      "item": "wwow:rabbit_hide_rope"
+    },
+    "3": {
+      "item": "wwow:rabbit_hide_rope"
+    },
+    "5": {
+      "item": "wwow:rabbit_hide_rope"
+    },
+    "6": {
+      "item": "wwow:rabbit_hide_rope"
+    },
+    "7": {
+      "item": "wwow:rabbit_hide_rope"
+    },
+    "8": {
+      "item": "wwow:rabbit_hide_rope"
+    }
+  },
+  "result": {
+    "item": "wwow:rabbit_hide_rope_coil",
+    "count": 1
+  }
+}

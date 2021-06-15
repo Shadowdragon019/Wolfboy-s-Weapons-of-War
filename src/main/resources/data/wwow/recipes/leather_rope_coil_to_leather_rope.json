@@ -1,0 +1,13 @@
+{
+  "group": "leather_rope",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "wwow:leather_rope_coil"
+    }
+  ],
+  "result": {
+    "item": "wwow:leather_rope",
+    "count": 8
+  }
+}

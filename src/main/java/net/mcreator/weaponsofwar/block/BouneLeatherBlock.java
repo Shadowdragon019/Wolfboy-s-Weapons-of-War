@@ -20,7 +20,7 @@ import java.util.Collections;
 
 @WwowModElements.ModElement.Tag
 public class BouneLeatherBlock extends WwowModElements.ModElement {
-	@ObjectHolder("wwow:boune_leather")
+	@ObjectHolder("wwow:bound_leather")
 	public static final Block block = null;
 	public BouneLeatherBlock(WwowModElements instance) {
 		super(instance, 130);
@@ -35,7 +35,7 @@ public class BouneLeatherBlock extends WwowModElements.ModElement {
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.WOOL).sound(SoundType.CLOTH).hardnessAndResistance(0.8f, 0.8f).setLightLevel(s -> 0));
-			setRegistryName("boune_leather");
+			setRegistryName("bound_leather");
 		}
 
 		@Override

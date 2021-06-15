@@ -1,0 +1,8 @@
+{
+  "parent": "wwow:custom/rabbit_hide_rope",
+  "textures": {
+    "all": "wwow:blocks/rabbit_hide_rope",
+    "particle": "wwow:blocks/rabbit_hide_rope",
+    "rabbit_hide_rope": "wwow:blocks/rabbit_hide_rope"
+  }
+}

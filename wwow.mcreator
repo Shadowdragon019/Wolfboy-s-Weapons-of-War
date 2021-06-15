@@ -59,7 +59,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "leather_rope_r",
-      "path": "~/Recipes/WWoW/Crafting/Items"
+      "path": "~/Recipes/WWoW/Crafting/Blocks/Rope"
     },
     {
       "name": "LeatherHandleR",
@@ -196,96 +196,6 @@
       "ids": {},
       "registry_name": "netherite_greatsword",
       "path": "~/Item/Weapons/Broadsword"
-    },
-    {
-      "name": "StackedIronIngot",
-      "type": "item",
-      "sortid": 11,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "stacked_iron_ingot",
-      "path": "~/Item/Materials/Ingots/Stacked Ingots"
-    },
-    {
-      "name": "StackedIronIngotR",
-      "type": "recipe",
-      "sortid": 40,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "stacked_iron_ingot_r",
-      "path": "~/Recipes/WWoW/Smithing"
-    },
-    {
-      "name": "RubyOreLT",
-      "type": "loottable",
-      "sortid": 41,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "ruby_ore_lt",
-      "path": "~/LootTables"
-    },
-    {
-      "name": "StackedGoldIngot",
-      "type": "item",
-      "sortid": 10,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "stacked_gold_ingot",
-      "path": "~/Item/Materials/Ingots/Stacked Ingots"
-    },
-    {
-      "name": "StackedNetheriteIngot",
-      "type": "item",
-      "sortid": 14,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "stacked_netherite_ingot",
-      "path": "~/Item/Materials/Ingots/Stacked Ingots"
-    },
-    {
-      "name": "StackedGoldIngotR",
-      "type": "recipe",
-      "sortid": 44,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "stacked_gold_ingot_r",
-      "path": "~/Recipes/WWoW/Smithing"
-    },
-    {
-      "name": "StackedNetheriteIngotR",
-      "type": "recipe",
-      "sortid": 45,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "stacked_netherite_ingot_r",
-      "path": "~/Recipes/WWoW/Smithing"
-    },
-    {
-      "name": "StackedDiamond",
-      "type": "item",
-      "sortid": 12,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "stacked_diamond",
-      "path": "~/Item/Materials/Ingots/Stacked Ingots"
-    },
-    {
-      "name": "StackedDiamondR",
-      "type": "recipe",
-      "sortid": 46,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "stacked_diamond_r",
-      "path": "~/Recipes/WWoW/Crafting/Items"
     },
     {
       "name": "WoodenTool",
@@ -653,6 +563,10 @@
             "type": "entity"
           },
           {
+            "name": "damagemodifier",
+            "type": "number"
+          },
+          {
             "name": "world",
             "type": "world"
           }
@@ -791,7 +705,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "netherite_nugget_r",
-      "path": "~/Recipes/WWoW/Crafting/Items"
+      "path": "~/Recipes/WWoW/Crafting/Items/Nuggets"
     },
     {
       "name": "NetheriteNuggetToNetheriteIngot",
@@ -801,7 +715,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "netherite_nugget_to_netherite_ingot",
-      "path": "~/Recipes/WWoW/Crafting/Items"
+      "path": "~/Recipes/WWoW/Crafting/Items/Nuggets"
     },
     {
       "name": "DiamondNuggetR",
@@ -811,7 +725,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "diamond_nugget_r",
-      "path": "~/Recipes/WWoW/Crafting/Items"
+      "path": "~/Recipes/WWoW/Crafting/Items/Nuggets"
     },
     {
       "name": "DiamondNuggetToDiamond",
@@ -821,7 +735,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "diamond_nugget_to_diamond",
-      "path": "~/Recipes/WWoW/Crafting/Items"
+      "path": "~/Recipes/WWoW/Crafting/Items/Nuggets"
     },
     {
       "name": "Cobble",
@@ -841,7 +755,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cobble_r",
-      "path": "~/Recipes/WWoW/Crafting/Items"
+      "path": "~/Recipes/WWoW/Crafting/Items/Nuggets"
     },
     {
       "name": "CobbleToCobblestone",
@@ -851,7 +765,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cobble_to_cobblestone",
-      "path": "~/Recipes/WWoW/Crafting/Items"
+      "path": "~/Recipes/WWoW/Crafting/Items/Nuggets"
     },
     {
       "name": "SugarCaneHandlePiece",
@@ -1110,7 +1024,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "boune_leather",
+      "registry_name": "bound_leather",
       "path": "~/Blocks"
     },
     {
@@ -1192,6 +1106,424 @@
       "ids": {},
       "registry_name": "leather_rope",
       "path": "~/Blocks"
+    },
+    {
+      "name": "Rope",
+      "type": "tag",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rope",
+      "path": "~/Tag/Block Tags"
+    },
+    {
+      "name": "RabbitHideRope",
+      "type": "block",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rabbit_hide_rope",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "LeatherRopeOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_rope_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "RopeItem",
+      "type": "tag",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rope_item",
+      "path": "~/Tag/Item Tags"
+    },
+    {
+      "name": "LeatherRopeOnBlockRightClick",
+      "type": "procedure",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_rope_on_block_right_click",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "RabbitHideRopeOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rabbit_hide_rope_on_block_right_clicked",
+      "metadata": {
+        "dependencies": []
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "RabbitHideRopeR",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rabbit_hide_rope_r",
+      "path": "~/Recipes/WWoW/Crafting/Blocks/Rope"
+    },
+    {
+      "name": "LeatherRopeCoil",
+      "type": "gun",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_rope_coil",
+      "path": "~/Item/Materials/Coils"
+    },
+    {
+      "name": "LeatherRopeCoilBulletHitsLivingEntity",
+      "type": "procedure",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_rope_coil_bullet_hits_living_entity",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "LeatherRopeCoilRangedItemUsed",
+      "type": "procedure",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_rope_coil_ranged_item_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "LeatherRopeCoilBulletHitsBlock",
+      "type": "procedure",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_rope_coil_bullet_hits_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "LeatherRopePlayerStartsToDestroy",
+      "type": "procedure",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_rope_player_starts_to_destroy",
+      "metadata": {
+        "dependencies": []
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "RabbitHideCoil",
+      "type": "gun",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rabbit_hide_rope_coil",
+      "path": "~/Item/Materials/Coils"
+    },
+    {
+      "name": "RabbitHideCoilBulletHitsBlock",
+      "type": "procedure",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rabbit_hide_coil_bullet_hits_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "RabbitHideCoilBulletHitsLivingEntity",
+      "type": "procedure",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rabbit_hide_coil_bullet_hits_living_entity",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "LeatherRopeOnBlockRightClicke",
+      "type": "procedure",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_rope_on_block_right_clicke",
+      "metadata": {
+        "dependencies": []
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "LeatherRopeCoilR",
+      "type": "recipe",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_rope_coil_r",
+      "path": "~/Recipes/WWoW/Crafting/Items/Coils"
+    },
+    {
+      "name": "LeatherRopeCoilToLeatherRope",
+      "type": "recipe",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_rope_coil_to_leather_rope",
+      "path": "~/Recipes/WWoW/Crafting/Items/Coils"
+    },
+    {
+      "name": "RabbitHideRopeCoilR",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rabbit_hide_rope_coil_r",
+      "path": "~/Recipes/WWoW/Crafting/Items/Coils"
+    },
+    {
+      "name": "RabbitHideRopeCoilToRabbitHideRope",
+      "type": "recipe",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rabbit_hide_rope_coil_to_rabbit_hide_rope",
+      "path": "~/Recipes/WWoW/Crafting/Items/Coils"
+    },
+    {
+      "name": "RefinedGoldenIngot",
+      "type": "item",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_golden_ingot",
+      "path": "~/Item/Materials/Refined"
+    },
+    {
+      "name": "RefinedIronIngot",
+      "type": "item",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_iron_ingot",
+      "path": "~/Item/Materials/Refined"
+    },
+    {
+      "name": "RefinedDiamond",
+      "type": "item",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_diamond",
+      "path": "~/Item/Materials/Refined"
+    },
+    {
+      "name": "RefinedNetheriteIngot",
+      "type": "item",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_netherite_ingot",
+      "path": "~/Item/Materials/Refined"
+    },
+    {
+      "name": "Magmator",
+      "type": "block",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magmator",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "MagmatorR",
+      "type": "recipe",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magmator_r",
+      "path": "~/Recipes/WWoW/Crafting/Blocks"
+    },
+    {
+      "name": "Climbable",
+      "type": "tag",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "climbable",
+      "path": "~/Tag/Block Tags"
+    },
+    {
+      "name": "LeatherRopeBlockValidPlacementCondition",
+      "type": "procedure",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_rope_block_valid_placement_condition",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
     }
   ],
   "variable_elements": [],
@@ -1205,14 +1537,16 @@
       "item.wwow.netherite_nugget": "Netherite Nugget",
       "item.wwow.iron_greatsword": "Iron Greatsword",
       "item.wwow.smooth_stick_piece": "Smooth Stick Piece",
-      "item.wwow.stacked_iron_ingot": "Stacked Iron Ingot",
+      "item.wwow.refined_iron_ingot": "Refined Iron Ingot",
       "item.wwow.wooden_hammer": "Wooden Hammer",
       "gamerule.woodenItemRepairTime.description": "The amount of time (in ticks) a Wooden item repairs 1 durability",
       "gamerule.daggerBackstabRange": "Dagger Backstab Range",
-      "item.wwow.stacked_netherite_ingot": "Stacked Netherite Ingot",
-      "item.wwow.stacked_diamond": "Stacked Diamond",
+      "block.wwow.magmator": "Magmator",
+      "item.wwow.rabbit_hide_rope_coil": "Rabbit Hide Rope Coil",
+      "item.wwow.refined_diamond": "Refined Diamond",
       "gamerule.woodenItemRepairTime": "Wooden Itrem Repair Time",
       "gamerule.daggerBackstabRange.description": "The range of when you can backstab",
+      "block.wwow.bound_leather": "Bound Leather",
       "block.wwow.leather_rope": "Leather Rope",
       "item.wwow.stone_dagger": "Stone Dagger",
       "item.wwow.netherite_greatsword": "Netherite Greatsword",
@@ -1221,22 +1555,24 @@
       "item.wwow.sugar_cane_handle_piece": "Sugar Cane Handle Piece",
       "item.wwow.sugar_cane_handle": "Sugar Cane Handle",
       "item.minecraft.wooden_sword": "Wooden Broadsword",
+      "item.wwow.refined_netherite_ingot": "Refined Netherite Ingot",
       "item.minecraft.iron_sword": "Iron Broadsword",
       "item.wwow.golden_greatsword": "Golden Greatsword",
       "block.wwow.bound_sugar_cane": "Bound Sugar Cane",
-      "block.wwow.boune_leather": "Bound Leather",
       "item.minecraft.stone_sword": "Stone Broadsword",
       "item.wwow.cobble": "Cobble",
       "item.wwow.diamond_nugget": "Diamond Nugget",
+      "item.wwow.leather_rope_coil": "Leather Rope Coil",
+      "item.wwow.refined_golden_ingot": "Refined Golden Ingot",
       "item.wwow.smooth_stick": "Smooth Stick",
       "item.wwow.leather_handle": "Leather Handle",
       "item.wwow.iron_dagger": "Iron Dagger",
+      "block.wwow.rabbit_hide_rope": "Rabbit Hide Rope",
       "item.wwow.leather_handle_piece": "Leather Handle Piece",
       "item.wwow.wooden_dagger": "Wooden Dagger",
       "item.wwow.diamond_dagger": "Diamond Dagger",
       "item.wwow.netherite_dagger": "Netherite Dagger",
       "block.wwow.bound_rabbit_hide": "Bound Rabbit Hide",
-      "item.wwow.stacked_gold_ingot": "Stacked Gold Ingot",
       "item.wwow.diamond_greatsword": "Diamond Greatsword",
       "item.minecraft.golden_sword": "Golden Broadsword",
       "item.wwow.stone_greatsword": "Stone Greatsword"
@@ -1269,15 +1605,6 @@
             "name": "Materials",
             "children": [
               {
-                "name": "Ingots",
-                "children": [
-                  {
-                    "name": "Stacked Ingots",
-                    "children": []
-                  }
-                ]
-              },
-              {
                 "name": "Sticks",
                 "children": []
               },
@@ -1287,6 +1614,14 @@
               },
               {
                 "name": "Nuggets",
+                "children": []
+              },
+              {
+                "name": "Coils",
+                "children": []
+              },
+              {
+                "name": "Refined",
                 "children": []
               }
             ]
@@ -1312,12 +1647,25 @@
                       {
                         "name": "Bound",
                         "children": []
+                      },
+                      {
+                        "name": "Rope",
+                        "children": []
                       }
                     ]
                   },
                   {
                     "name": "Items",
-                    "children": []
+                    "children": [
+                      {
+                        "name": "Coils",
+                        "children": []
+                      },
+                      {
+                        "name": "Nuggets",
+                        "children": []
+                      }
+                    ]
                   }
                 ]
               },
@@ -1387,6 +1735,10 @@
       {
         "name": "Gamerules",
         "children": []
+      },
+      {
+        "name": "Fuels",
+        "children": []
       }
     ]
   },
@@ -1394,7 +1746,7 @@
     "modid": "wwow",
     "modName": "Wolfboy\u0027s Weapons of War",
     "version": "1.0.0",
-    "author": "Oskar W. Heineck, MCreator",
+    "author": "Shadowdragon, MCreator",
     "websiteURL": "https://mcreator.net",
     "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,
@@ -1410,5 +1762,5 @@
     "modElementsPackage": "net.mcreator.weaponsofwar",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202100118117
+  "mcreatorVersion": 202100223417
 }

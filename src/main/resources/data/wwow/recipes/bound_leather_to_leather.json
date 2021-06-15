@@ -3,7 +3,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "wwow:boune_leather"
+      "item": "wwow:bound_leather"
     }
   ],
   "result": {

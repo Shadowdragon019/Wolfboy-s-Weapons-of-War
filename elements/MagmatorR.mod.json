@@ -1,0 +1,46 @@
+{
+  "_fv": 21,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "magmator",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.NETHER_BRICK"
+      },
+      {
+        "value": "Blocks.NETHER_BRICK"
+      },
+      {
+        "value": "Blocks.NETHER_BRICK"
+      },
+      {
+        "value": "Blocks.NETHER_BRICK"
+      },
+      {
+        "value": "Blocks.FURNACE"
+      },
+      {
+        "value": "Blocks.NETHER_BRICK"
+      },
+      {
+        "value": "Blocks.MAGMA"
+      },
+      {
+        "value": "Blocks.MAGMA"
+      },
+      {
+        "value": "Blocks.MAGMA"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Magmator"
+    },
+    "name": "magmator",
+    "namespace": "mod"
+  }
+}

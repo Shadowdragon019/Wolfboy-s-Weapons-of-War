@@ -1,0 +1,46 @@
+{
+  "_fv": 21,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "leather_rope_coil",
+    "customModelName": "Normal",
+    "name": "Leather Rope Coil",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "stackSize": 16,
+    "ammoItem": {
+      "value": "CUSTOM:LeatherRopeCoil"
+    },
+    "shootConstantly": true,
+    "usageCount": 0,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "onRangedItemUsed": {
+      "name": "LeatherRopeCoilRangedItemUsed"
+    },
+    "bulletPower": 0.7,
+    "bulletDamage": 3.0,
+    "bulletKnockback": 1,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:LeatherRopeCoil"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "LeatherRopeCoilBulletHitsBlock"
+    },
+    "onBulletHitsEntity": {
+      "name": "LeatherRopeCoilBulletHitsLivingEntity"
+    }
+  }
+}

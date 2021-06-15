@@ -1,14 +1,11 @@
 {
   "group": "diamond_nugget",
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "0"
-  ],
-  "key": {
-    "0": {
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
       "item": "minecraft:diamond"
     }
-  },
+  ],
   "result": {
     "item": "wwow:diamond_nugget",
     "count": 9

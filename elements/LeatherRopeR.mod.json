@@ -1,5 +1,5 @@
 {
-  "_fv": 18,
+  "_fv": 21,
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
@@ -7,7 +7,7 @@
     "cookingTime": 200,
     "recipeRetstackSize": 3,
     "group": "leather_rope",
-    "recipeShapeless": false,
+    "recipeShapeless": true,
     "recipeSlots": [
       {
         "value": ""

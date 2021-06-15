@@ -1,8 +1,8 @@
 package net.mcreator.weaponsofwar.procedures;
 
+import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.event.entity.living.LivingHurtEvent;
-import net.minecraftforge.common.MinecraftForge;
 
 import net.minecraft.world.World;
 import net.minecraft.util.ResourceLocation;
@@ -14,19 +14,37 @@ import net.minecraft.entity.Entity;
 import net.minecraft.enchantment.EnchantmentHelper;
 
 import net.mcreator.weaponsofwar.enchantment.SplashingEnchantment;
-import net.mcreator.weaponsofwar.WwowModElements;
 import net.mcreator.weaponsofwar.WwowMod;
 
 import java.util.Map;
 import java.util.HashMap;
 
-@WwowModElements.ModElement.Tag
-public class BeforeEntityIsHurtProcedure extends WwowModElements.ModElement {
-	public BeforeEntityIsHurtProcedure(WwowModElements instance) {
-		super(instance, 35);
-		MinecraftForge.EVENT_BUS.register(this);
+public class BeforeEntityIsHurtProcedure {
+	@Mod.EventBusSubscriber
+	private static class GlobalTrigger {
+		@SubscribeEvent
+		public static void onEntityAttacked(LivingHurtEvent event) {
+			if (event != null && event.getEntity() != null) {
+				Entity entity = event.getEntity();
+				Entity sourceentity = event.getSource().getTrueSource();
+				double i = entity.getPosX();
+				double j = entity.getPosY();
+				double k = entity.getPosZ();
+				double amount = event.getAmount();
+				World world = entity.world;
+				Map<String, Object> dependencies = new HashMap<>();
+				dependencies.put("x", i);
+				dependencies.put("y", j);
+				dependencies.put("z", k);
+				dependencies.put("amount", amount);
+				dependencies.put("world", world);
+				dependencies.put("entity", entity);
+				dependencies.put("sourceentity", sourceentity);
+				dependencies.put("event", event);
+				executeProcedure(dependencies);
+			}
+		}
 	}
-
 	public static void executeProcedure(Map<String, Object> dependencies) {
 		if (dependencies.get("entity") == null) {
 			if (!dependencies.containsKey("entity"))
@@ -74,29 +92,6 @@ public class BeforeEntityIsHurtProcedure extends WwowModElements.ModElement {
 			LivingHurtEvent event = (LivingHurtEvent) dependencies.get("event");
 			damage = (double) ((amount) * (damageMultiply));
 			event.setAmount((float) damage);
-		}
-	}
-
-	@SubscribeEvent
-	public void onEntityAttacked(LivingHurtEvent event) {
-		if (event != null && event.getEntity() != null) {
-			Entity entity = event.getEntity();
-			Entity sourceentity = event.getSource().getTrueSource();
-			double i = entity.getPosX();
-			double j = entity.getPosY();
-			double k = entity.getPosZ();
-			double amount = event.getAmount();
-			World world = entity.world;
-			Map<String, Object> dependencies = new HashMap<>();
-			dependencies.put("x", i);
-			dependencies.put("y", j);
-			dependencies.put("z", k);
-			dependencies.put("amount", amount);
-			dependencies.put("world", world);
-			dependencies.put("entity", entity);
-			dependencies.put("sourceentity", sourceentity);
-			dependencies.put("event", event);
-			this.executeProcedure(dependencies);
 		}
 	}
 }

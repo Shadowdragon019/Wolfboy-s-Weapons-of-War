@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "wwow:block/magmator"
+    },
+    "facing=east": {
+      "model": "wwow:block/magmator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "wwow:block/magmator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "wwow:block/magmator",
+      "y": 270
+    }
+  }
+}

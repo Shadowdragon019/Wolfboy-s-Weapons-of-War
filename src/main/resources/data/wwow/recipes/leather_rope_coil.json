@@ -1,0 +1,39 @@
+{
+  "group": "leather_rope_coil",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwow:leather_rope"
+    },
+    "1": {
+      "item": "wwow:leather_rope"
+    },
+    "2": {
+      "item": "wwow:leather_rope"
+    },
+    "3": {
+      "item": "wwow:leather_rope"
+    },
+    "5": {
+      "item": "wwow:leather_rope"
+    },
+    "6": {
+      "item": "wwow:leather_rope"
+    },
+    "7": {
+      "item": "wwow:leather_rope"
+    },
+    "8": {
+      "item": "wwow:leather_rope"
+    }
+  },
+  "result": {
+    "item": "wwow:leather_rope_coil",
+    "count": 1
+  }
+}

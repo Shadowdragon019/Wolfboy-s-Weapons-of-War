@@ -1,0 +1,20 @@
+{
+  "_fv": 21,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:LeatherRope"
+      },
+      {
+        "value": "CUSTOM:RabbitHideRope"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "wwow/rope",
+    "namespace": "forge"
+  }
+}
