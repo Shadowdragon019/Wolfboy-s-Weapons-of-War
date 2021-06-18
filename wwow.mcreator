@@ -1539,6 +1539,7 @@
       "item.wwow.smooth_stick_piece": "Smooth Stick Piece",
       "item.wwow.refined_iron_ingot": "Refined Iron Ingot",
       "item.wwow.wooden_hammer": "Wooden Hammer",
+      "item.minecraft.golden_pickaxe": "Real Diamond Pickaxe",
       "gamerule.woodenItemRepairTime.description": "The amount of time (in ticks) a Wooden item repairs 1 durability",
       "gamerule.daggerBackstabRange": "Dagger Backstab Range",
       "block.wwow.magmator": "Magmator",
